@@ -1,0 +1,153 @@
+tsc/testdata/baselines/reference/compiler/blockScopedClassDeclarationAcrossFiles.js
+  s_b96252ac4a3d5a::t_942a17d11436cd 1-15
+tsc/testdata/baselines/reference/compiler/blockScopedClassDeclarationAcrossFiles.symbols
+  s_b96252ac4a3d5a::t_220f3b24faf044 1-11
+tsc/testdata/baselines/reference/compiler/blockScopedClassDeclarationAcrossFiles.types
+  s_b96252ac4a3d5a::t_9c403f3fd35e40 1-11
+tsc/testdata/baselines/reference/compiler/checkIndexConstraintOfJavascriptClassExpression.errors.txt
+  s_b96252ac4a3d5a::t_b9d9a6a0ccb1b3 1-27
+tsc/testdata/baselines/reference/compiler/checkIndexConstraintOfJavascriptClassExpression.symbols
+  s_b96252ac4a3d5a::t_b2c075bf2940d5 1-33
+tsc/testdata/baselines/reference/compiler/checkIndexConstraintOfJavascriptClassExpression.types
+  s_b96252ac4a3d5a::t_de4c47afefeb28 1-47
+tsc/testdata/baselines/reference/compiler/constDeclarations-useBeforeDefinition2.js
+  s_b96252ac4a3d5a::t_515b555b7889ef 1-15
+tsc/testdata/baselines/reference/compiler/constDeclarations-useBeforeDefinition2.symbols
+  s_b96252ac4a3d5a::t_03c17f276f2df3 1-10
+tsc/testdata/baselines/reference/compiler/constDeclarations-useBeforeDefinition2.types
+  s_b96252ac4a3d5a::t_0a506291fab994 1-11
+tsc/testdata/baselines/reference/compiler/controlFlowJavascript.errors.txt
+  s_b96252ac4a3d5a::t_b88e6a0542a4d6 1-111
+tsc/testdata/baselines/reference/compiler/controlFlowJavascript.symbols
+  s_b96252ac4a3d5a::t_e95f4ad17df565 1-217
+tsc/testdata/baselines/reference/compiler/controlFlowJavascript.types
+  s_b96252ac4a3d5a::t_845d54b2136ff0 1-251
+tsc/testdata/baselines/reference/compiler/inlineSourceMap2(target=es2015).errors.txt
+  s_b96252ac4a3d5a::t_f7af655df088a9 1-12
+tsc/testdata/baselines/reference/compiler/inlineSourceMap2(target=es2015).js
+  s_b96252ac4a3d5a::t_974ee68db4d8d9 1-15
+tsc/testdata/baselines/reference/compiler/inlineSourceMap2(target=es2015).sourcemap.txt
+  s_b96252ac4a3d5a::t_3782007f63336e 1-71
+tsc/testdata/baselines/reference/compiler/inlineSourceMap2(target=es2015).symbols
+  s_b96252ac4a3d5a::t_34795cf1a18aa9 1-14
+tsc/testdata/baselines/reference/compiler/inlineSourceMap2(target=es2015).types
+  s_b96252ac4a3d5a::t_5ee00076f84cea 1-16
+tsc/testdata/baselines/reference/compiler/letDeclarations-useBeforeDefinition2.js
+  s_b96252ac4a3d5a::t_7eb360ed269231 1-15
+tsc/testdata/baselines/reference/compiler/letDeclarations-useBeforeDefinition2.symbols
+  s_b96252ac4a3d5a::t_d78b05274e3df4 1-10
+tsc/testdata/baselines/reference/compiler/letDeclarations-useBeforeDefinition2.types
+  s_b96252ac4a3d5a::t_2afd6f0af3bcb3 1-11
+tsc/testdata/baselines/reference/compiler/signaturesUseJSDocForOptionalParameters.errors.txt
+  s_b96252ac4a3d5a::t_4a86ee496e5092 1-22
+tsc/testdata/baselines/reference/compiler/signaturesUseJSDocForOptionalParameters.symbols
+  s_b96252ac4a3d5a::t_5cc7c786a70a1a 1-34
+tsc/testdata/baselines/reference/compiler/signaturesUseJSDocForOptionalParameters.types
+  s_b96252ac4a3d5a::t_acf7b66f0ae4c9 1-53
+tsc/testdata/baselines/reference/compiler/useBeforeDeclaration.js
+  s_b96252ac4a3d5a::t_dc9e402d5a4967 1-40
+tsc/testdata/baselines/reference/compiler/useBeforeDeclaration.symbols
+  s_b96252ac4a3d5a::t_d7f36e8290fa08 1-35
+tsc/testdata/baselines/reference/compiler/useBeforeDeclaration.types
+  s_b96252ac4a3d5a::t_e30d168e8a2bfc 1-40
+tsc/testdata/baselines/reference/conformance/checkJsdocOnEndOfFile.errors.txt
+  s_b96252ac4a3d5a::t_a99893c6997813 1-14
+tsc/testdata/baselines/reference/conformance/checkJsdocOnEndOfFile.symbols
+  s_b96252ac4a3d5a::t_89320a1989bde5 1-8
+tsc/testdata/baselines/reference/conformance/checkJsdocOnEndOfFile.types
+  s_b96252ac4a3d5a::t_c0312cbdf0859a 1-8
+tsc/testdata/baselines/reference/conformance/checkJsdocReturnTag1.errors.txt
+  s_b96252ac4a3d5a::t_852057d5781066 1-32
+tsc/testdata/baselines/reference/conformance/checkJsdocReturnTag1.symbols
+  s_b96252ac4a3d5a::t_5f025325b056b0 1-31
+tsc/testdata/baselines/reference/conformance/checkJsdocReturnTag1.types
+  s_b96252ac4a3d5a::t_5616bade701b30 1-36
+tsc/testdata/baselines/reference/conformance/checkJsdocReturnTag2.errors.txt
+  s_b96252ac4a3d5a::t_7cd62a7336b4a3 1-28
+tsc/testdata/baselines/reference/conformance/checkJsdocReturnTag2.symbols
+  s_b96252ac4a3d5a::t_aab48a0c1de02a 1-22
+tsc/testdata/baselines/reference/conformance/checkJsdocReturnTag2.types
+  s_b96252ac4a3d5a::t_33aab8e18c1774 1-26
+tsc/testdata/baselines/reference/conformance/globalThisVarDeclaration.errors.txt
+  s_b96252ac4a3d5a::t_5b17a6095b5192 1-61
+tsc/testdata/baselines/reference/conformance/globalThisVarDeclaration.js
+  s_b96252ac4a3d5a::t_557d463766d52a 1-48
+tsc/testdata/baselines/reference/conformance/globalThisVarDeclaration.symbols
+  s_b96252ac4a3d5a::t_4ae7919edf17ed 1-105
+tsc/testdata/baselines/reference/conformance/globalThisVarDeclaration.types
+  s_b96252ac4a3d5a::t_18d0ad84fb59e2 1-115
+tsc/testdata/baselines/reference/conformance/inferringClassMembersFromAssignments.errors.txt
+  s_b96252ac4a3d5a::t_8d66f11b547a83 1-146
+tsc/testdata/baselines/reference/conformance/inferringClassMembersFromAssignments.js
+  s_b96252ac4a3d5a::t_53c681a8bd99f1 1-157
+tsc/testdata/baselines/reference/conformance/inferringClassMembersFromAssignments.symbols
+  s_b96252ac4a3d5a::t_83f2201e237915 1-369
+tsc/testdata/baselines/reference/conformance/inferringClassMembersFromAssignments.types
+  s_b96252ac4a3d5a::t_3d8133a693b3b6 1-441
+tsc/testdata/baselines/reference/conformance/jsObjectsMarkedAsOpenEnded.errors.txt
+  s_b96252ac4a3d5a::t_8a3dfc4e9e5183 1-40
+tsc/testdata/baselines/reference/conformance/jsObjectsMarkedAsOpenEnded.js
+  s_b96252ac4a3d5a::t_2b32efbd02388b 1-45
+tsc/testdata/baselines/reference/conformance/jsObjectsMarkedAsOpenEnded.symbols
+  s_b96252ac4a3d5a::t_655e61deecc81c 1-81
+tsc/testdata/baselines/reference/conformance/jsObjectsMarkedAsOpenEnded.types
+  s_b96252ac4a3d5a::t_e1df2a6fec8ba5 1-129
+tsc/testdata/baselines/reference/conformance/jsdocLiteral.errors.txt
+  s_b96252ac4a3d5a::t_b03d8ab38f2b96 1-18
+tsc/testdata/baselines/reference/conformance/jsdocLiteral.symbols
+  s_b96252ac4a3d5a::t_07947b387fa257 1-26
+tsc/testdata/baselines/reference/conformance/jsdocLiteral.types
+  s_b96252ac4a3d5a::t_d1c2a5f5f91698 1-32
+tsc/testdata/baselines/reference/conformance/jsdocNeverUndefinedNull.errors.txt
+  s_b96252ac4a3d5a::t_32cd0548b48f38 1-16
+tsc/testdata/baselines/reference/conformance/jsdocNeverUndefinedNull.symbols
+  s_b96252ac4a3d5a::t_8028ba829c535c 1-16
+tsc/testdata/baselines/reference/conformance/jsdocNeverUndefinedNull.types
+  s_b96252ac4a3d5a::t_818b7d8b914605 1-16
+tsc/testdata/baselines/reference/conformance/jsdocReturnTag1.errors.txt
+  s_b96252ac4a3d5a::t_e0345bf51acf4e 1-28
+tsc/testdata/baselines/reference/conformance/jsdocReturnTag1.symbols
+  s_b96252ac4a3d5a::t_9c5b62c059a324 1-30
+tsc/testdata/baselines/reference/conformance/jsdocReturnTag1.types
+  s_b96252ac4a3d5a::t_d5f76bb97cc9e1 1-35
+tsc/testdata/baselines/reference/conformance/methodsReturningThis.errors.txt
+  s_b96252ac4a3d5a::t_6dd8eaada852f4 1-26
+tsc/testdata/baselines/reference/conformance/methodsReturningThis.symbols
+  s_b96252ac4a3d5a::t_bc9e872500b4c7 1-83
+tsc/testdata/baselines/reference/conformance/methodsReturningThis.types
+  s_b96252ac4a3d5a::t_7b0607fc0b6540 1-135
+tsc/testdata/baselines/reference/conformance/multipleDeclarations.errors.txt
+  s_b96252ac4a3d5a::t_cf75ae68adc974 1-42
+tsc/testdata/baselines/reference/conformance/multipleDeclarations.symbols
+  s_b96252ac4a3d5a::t_5ab80139d3a5f2 1-111
+tsc/testdata/baselines/reference/conformance/multipleDeclarations.types
+  s_b96252ac4a3d5a::t_0057e456af6317 1-140
+tsc/testdata/baselines/reference/conformance/topLevelThisAssignment.errors.txt
+  s_b96252ac4a3d5a::t_99bf92fb7f83de 1-25
+tsc/testdata/baselines/reference/conformance/topLevelThisAssignment.symbols
+  s_b96252ac4a3d5a::t_d09cc1e62f3915 1-17
+tsc/testdata/baselines/reference/conformance/topLevelThisAssignment.types
+  s_b96252ac4a3d5a::t_e9755f845c4795 1-27
+tsc/testdata/baselines/reference/conformance/typeSatisfaction_js.errors.txt
+  s_b96252ac4a3d5a::t_d25d07f9b19dea 1-12
+tsc/testdata/baselines/reference/conformance/typeSatisfaction_js.symbols
+  s_b96252ac4a3d5a::t_06858744b44d76 1-7
+tsc/testdata/baselines/reference/conformance/typeSatisfaction_js.types
+  s_b96252ac4a3d5a::t_f61a8df4b0c60a 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4f948ef8bfbafb19f7e67ec4e9f4a4f79932bc6c",
+  "prompts": {},
+  "sessions": {
+    "s_b96252ac4a3d5a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a05dc2-f54f-7d91-b2a4-46d351a49ff4",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Cameron <cclark@cloudflare.com>"
+    }
+  }
+}
