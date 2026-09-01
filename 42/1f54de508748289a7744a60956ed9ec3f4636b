@@ -1,0 +1,21 @@
+tsc/internal/fourslash/tests/declarationMapsGoToDefinitionSameNameDifferentDirectory_test.go
+  s_555bdd00191282::t_0f09023d651625 46
+tsc/internal/fourslash/tests/getDeclarationDiagnostics_test.go
+  s_555bdd00191282::t_4b6f4b8f2995f5 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "421f54de508748289a7744a60956ed9ec3f4636b",
+  "prompts": {},
+  "sessions": {
+    "s_555bdd00191282": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a05c10-95a3-78e3-bfeb-a54856c3231d",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Cameron <cclark@cloudflare.com>"
+    }
+  }
+}
