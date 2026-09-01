@@ -1,0 +1,426 @@
+tsc/internal/testutil/harnessutil/harnessutil.go
+  s_b96252ac4a3d5a::t_b2d5d5f5c15570 1241-1242,1258
+  s_b96252ac4a3d5a::t_27cd3411a8b529 1239
+tsc/testdata/tests/cases/compiler/blockScopedClassDeclarationAcrossFiles.ts
+  s_b96252ac4a3d5a::t_43c870c418df55 2
+tsc/testdata/tests/cases/compiler/checkIndexConstraintOfJavascriptClassExpression.ts
+  s_b96252ac4a3d5a::t_a957ae17505596 7
+tsc/testdata/tests/cases/compiler/constDeclarations-useBeforeDefinition2.ts
+  s_b96252ac4a3d5a::t_75f2caa6ef624c 3
+tsc/testdata/tests/cases/compiler/controlFlowJavascript.ts
+  s_b96252ac4a3d5a::t_38c669c0c29b79 4
+tsc/testdata/tests/cases/compiler/inlineSourceMap2.ts
+  s_b96252ac4a3d5a::t_5f9d681a9249d6 5
+tsc/testdata/tests/cases/compiler/jsFileCompilationClassMethodContainingArrowFunction.ts
+  s_b96252ac4a3d5a::t_985cf35feefb24 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationDuplicateFunctionImplementation.ts
+  s_b96252ac4a3d5a::t_25557c37b0bbd1 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationDuplicateFunctionImplementationFileOrderReversed.ts
+  s_b96252ac4a3d5a::t_60df26e2d0b378 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationDuplicateVariable.ts
+  s_b96252ac4a3d5a::t_38b843fd7e490d 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationDuplicateVariableErrorReported.ts
+  s_b96252ac4a3d5a::t_cc7a51a51eb229 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationEmitDeclarations.ts
+  s_b96252ac4a3d5a::t_579f150fc97624 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationEmitTrippleSlashReference.ts
+  s_b96252ac4a3d5a::t_d28d5cc3b9a31f 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationLetBeingRenamed.ts
+  s_b96252ac4a3d5a::t_24a3a36d38de03 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationLetDeclarationOrder.ts
+  s_b96252ac4a3d5a::t_c92e204ab41b49 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationLetDeclarationOrder2.ts
+  s_b96252ac4a3d5a::t_6984bdf235ca0e 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationNonNullAssertion.ts
+  s_b96252ac4a3d5a::t_861352e81532a2 4
+tsc/testdata/tests/cases/compiler/jsFileCompilationRestParameter.ts
+  s_b96252ac4a3d5a::t_74ae91eaf188ca 4
+tsc/testdata/tests/cases/compiler/jsFileCompilationShortHandProperty.ts
+  s_b96252ac4a3d5a::t_8adcd0398377f9 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationTypeAssertions.ts
+  s_b96252ac4a3d5a::t_e8a509019fd3d9 4
+tsc/testdata/tests/cases/compiler/jsFileCompilationWithEnabledCompositeOption.ts
+  s_b96252ac4a3d5a::t_dfcd8d2bcc937e 3
+tsc/testdata/tests/cases/compiler/letDeclarations-useBeforeDefinition2.ts
+  s_b96252ac4a3d5a::t_6ed3289868894e 2
+tsc/testdata/tests/cases/compiler/moduleNoneDynamicImport.ts
+  s_b96252ac4a3d5a::t_61afbba2a2a2a4 4
+tsc/testdata/tests/cases/compiler/signaturesUseJSDocForOptionalParameters.ts
+  s_b96252ac4a3d5a::t_5ad3570158e6bf 3
+tsc/testdata/tests/cases/compiler/useBeforeDeclaration.ts
+  s_b96252ac4a3d5a::t_f458104a3a9759 2
+tsc/testdata/tests/cases/conformance/classes/members/classTypes/genericSetterInClassTypeJsDoc.ts
+  s_b96252ac4a3d5a::t_10fb35c86960c5 7
+tsc/testdata/tests/cases/conformance/es6/computedProperties/computedPropertyNames52.ts
+  s_b96252ac4a3d5a::t_62a8a642c29623 2
+tsc/testdata/tests/cases/conformance/expressions/typeSatisfaction/typeSatisfaction_js.ts
+  s_b96252ac4a3d5a::t_d2427259ed4674 4
+tsc/testdata/tests/cases/conformance/jsdoc/checkJsdocOnEndOfFile.ts
+  s_b96252ac4a3d5a::t_66e1d00960d73a 2
+tsc/testdata/tests/cases/conformance/jsdoc/checkJsdocReturnTag1.ts
+  s_b96252ac4a3d5a::t_cf604872e43658 3
+tsc/testdata/tests/cases/conformance/jsdoc/checkJsdocReturnTag2.ts
+  s_b96252ac4a3d5a::t_3f023042d8e46a 3
+tsc/testdata/tests/cases/conformance/jsdoc/jsdocAccessibilityTagsDeclarations.ts
+  s_b96252ac4a3d5a::t_25a242b1550da7 5
+tsc/testdata/tests/cases/conformance/jsdoc/jsdocLiteral.ts
+  s_b96252ac4a3d5a::t_22d25ed34aba5f 4
+tsc/testdata/tests/cases/conformance/jsdoc/jsdocNeverUndefinedNull.ts
+  s_b96252ac4a3d5a::t_3ba7961407bc56 4
+tsc/testdata/tests/cases/conformance/jsdoc/jsdocReadonlyDeclarations.ts
+  s_b96252ac4a3d5a::t_7022bb9bcbf4d0 5
+tsc/testdata/tests/cases/conformance/jsdoc/jsdocReturnTag1.ts
+  s_b96252ac4a3d5a::t_b7a83d0ff9cf76 4
+tsc/testdata/tests/cases/conformance/salsa/inferringClassMembersFromAssignments.ts
+  s_b96252ac4a3d5a::t_20c7d8895ee215 2
+tsc/testdata/tests/cases/conformance/salsa/jsObjectsMarkedAsOpenEnded.ts
+  s_b96252ac4a3d5a::t_9c646ae78922a4 3
+tsc/testdata/tests/cases/conformance/salsa/methodsReturningThis.ts
+  s_b96252ac4a3d5a::t_ce4b23e63e8c6a 3
+tsc/testdata/tests/cases/conformance/salsa/multipleDeclarations.ts
+  s_b96252ac4a3d5a::t_5abeb32b1745af 3
+tsc/testdata/tests/cases/conformance/salsa/topLevelThisAssignment.ts
+  s_b96252ac4a3d5a::t_380c2c9d194c97 3
+tsc/testdata/tests/cases/conformance/types/uniqueSymbol/uniqueSymbolsDeclarationsInJs.ts
+  s_b96252ac4a3d5a::t_c3dbddf8a77607 7
+tsc/testdata/tests/cases/conformance/types/uniqueSymbol/uniqueSymbolsDeclarationsInJsErrors.ts
+  s_b96252ac4a3d5a::t_2030cfea1bda1b 7
+tsc/testdata/tests/cases/compiler/ambientExternalModuleWithInternalImportDeclaration.ts
+  s_b96252ac4a3d5a::t_0e226920910b8c 2
+tsc/testdata/tests/cases/compiler/ambientExternalModuleWithoutInternalImportDeclaration.ts
+  s_b96252ac4a3d5a::t_08a1ecec70a889 2
+tsc/testdata/tests/cases/compiler/augmentExportEquals1_1.ts
+  s_b96252ac4a3d5a::t_776ec0fb5378ba 3
+tsc/testdata/tests/cases/compiler/augmentExportEquals2_1.ts
+  s_b96252ac4a3d5a::t_bf95f8ba7603a8 3
+tsc/testdata/tests/cases/compiler/augmentExportEquals3_1.ts
+  s_b96252ac4a3d5a::t_bf2ae1410c66a5 3
+tsc/testdata/tests/cases/compiler/augmentExportEquals4_1.ts
+  s_b96252ac4a3d5a::t_a4a073d53f051e 3
+tsc/testdata/tests/cases/compiler/augmentExportEquals6_1.ts
+  s_b96252ac4a3d5a::t_210ed522de56ba 3
+tsc/testdata/tests/cases/compiler/augmentedTypesExternalModule1.ts
+  s_b96252ac4a3d5a::t_72fc5acdf789f8 2
+tsc/testdata/tests/cases/compiler/bangInModuleName.ts
+  s_b96252ac4a3d5a::t_9ff94c2a8b1c15 2
+tsc/testdata/tests/cases/compiler/blockScopedNamespaceDifferentFile.ts
+  s_b96252ac4a3d5a::t_27f99b013c22a4 3-4
+tsc/testdata/tests/cases/compiler/cacheResolutions.ts
+  s_b96252ac4a3d5a::t_41ee2dee02b563 2
+tsc/testdata/tests/cases/compiler/collisionExportsRequireAndClass.ts
+  s_b96252ac4a3d5a::t_4abc6ea8fbc915 2
+tsc/testdata/tests/cases/compiler/collisionExportsRequireAndEnum.ts
+  s_b96252ac4a3d5a::t_dbbcb9d6f60cac 2
+tsc/testdata/tests/cases/compiler/collisionExportsRequireAndFunction.ts
+  s_b96252ac4a3d5a::t_8cd420b935114d 2
+tsc/testdata/tests/cases/compiler/collisionExportsRequireAndInternalModuleAlias.ts
+  s_b96252ac4a3d5a::t_06999713286a7f 2
+tsc/testdata/tests/cases/compiler/collisionExportsRequireAndModule.ts
+  s_b96252ac4a3d5a::t_1f80194255c488 2
+tsc/testdata/tests/cases/compiler/collisionExportsRequireAndUninstantiatedModule.ts
+  s_b96252ac4a3d5a::t_07104e97c489b8 2
+tsc/testdata/tests/cases/compiler/collisionExportsRequireAndVar.ts
+  s_b96252ac4a3d5a::t_45e422da672644 2
+tsc/testdata/tests/cases/compiler/commentsBeforeVariableStatement1.ts
+  s_b96252ac4a3d5a::t_2497342cdc6ea0 2
+tsc/testdata/tests/cases/compiler/constEnumExternalModule.ts
+  s_b96252ac4a3d5a::t_ba146ad93fc386 2
+tsc/testdata/tests/cases/compiler/constEnumMergingWithValues1.ts
+  s_b96252ac4a3d5a::t_cf3cdc14e792bb 2
+tsc/testdata/tests/cases/compiler/constEnumMergingWithValues2.ts
+  s_b96252ac4a3d5a::t_e4f0e37794f3c2 2
+tsc/testdata/tests/cases/compiler/constEnumMergingWithValues3.ts
+  s_b96252ac4a3d5a::t_6ce1cae360aee5 2
+tsc/testdata/tests/cases/compiler/constEnumMergingWithValues4.ts
+  s_b96252ac4a3d5a::t_6499b4dc707258 2
+tsc/testdata/tests/cases/compiler/constEnumMergingWithValues5.ts
+  s_b96252ac4a3d5a::t_6d94c638e3765a 2
+tsc/testdata/tests/cases/compiler/crashIntypeCheckObjectCreationExpression.ts
+  s_b96252ac4a3d5a::t_b8e03dbeaded04 2
+tsc/testdata/tests/cases/compiler/declFileExportAssignmentOfGenericInterface.ts
+  s_b96252ac4a3d5a::t_36df7ab00014a5 2
+tsc/testdata/tests/cases/compiler/declFileExportImportChain.ts
+  s_b96252ac4a3d5a::t_3d8a5c66d88cfd 2
+tsc/testdata/tests/cases/compiler/declFileExportImportChain2.ts
+  s_b96252ac4a3d5a::t_dd0e0f25e4ba35 2
+tsc/testdata/tests/cases/compiler/declarationMerging2.ts
+  s_b96252ac4a3d5a::t_06b4b372e2d75d 3
+tsc/testdata/tests/cases/compiler/dependencyViaImportAlias.ts
+  s_b96252ac4a3d5a::t_77272ddb769552 2
+tsc/testdata/tests/cases/compiler/destructuringInVariableDeclarations3.ts
+  s_b96252ac4a3d5a::t_4ed4f6849e8259 2
+tsc/testdata/tests/cases/compiler/destructuringInVariableDeclarations4.ts
+  s_b96252ac4a3d5a::t_db39b35af80106 2
+tsc/testdata/tests/cases/compiler/duplicateIdentifierShouldNotShortCircuitBaseTypeBinding.ts
+  s_b96252ac4a3d5a::t_45b2b9faa94286 2
+tsc/testdata/tests/cases/compiler/dynamicRequire.ts
+  s_b96252ac4a3d5a::t_5a83814460c80e 3-4
+tsc/testdata/tests/cases/compiler/es6ImportNameSpaceImportWithExport.ts
+  s_b96252ac4a3d5a::t_31b9e6b72dbbc1 2
+tsc/testdata/tests/cases/compiler/exportAssignedTypeAsTypeAnnotation.ts
+  s_b96252ac4a3d5a::t_882ebc4b3fd98f 2
+tsc/testdata/tests/cases/compiler/exportAssignmentClass.ts
+  s_b96252ac4a3d5a::t_00acd0947061da 2
+tsc/testdata/tests/cases/compiler/exportAssignmentError.ts
+  s_b96252ac4a3d5a::t_1cac424fa77e68 3
+tsc/testdata/tests/cases/compiler/exportAssignmentFunction.ts
+  s_b96252ac4a3d5a::t_843a96ca1fedf1 2
+tsc/testdata/tests/cases/compiler/exportAssignmentInterface.ts
+  s_b96252ac4a3d5a::t_e8f425824b1b53 2
+tsc/testdata/tests/cases/compiler/exportAssignmentInternalModule.ts
+  s_b96252ac4a3d5a::t_794ba03ebdc587 3
+tsc/testdata/tests/cases/compiler/exportAssignmentOfGenericType1.ts
+  s_b96252ac4a3d5a::t_6278d0236c2401 2
+tsc/testdata/tests/cases/compiler/exportAssignmentWithImportStatementPrivacyError.ts
+  s_b96252ac4a3d5a::t_27661980e1d04e 3
+tsc/testdata/tests/cases/compiler/exportAssignmentWithPrivacyError.ts
+  s_b96252ac4a3d5a::t_5cdd940770acb7 3
+tsc/testdata/tests/cases/compiler/exportEqualCallable.ts
+  s_b96252ac4a3d5a::t_b1eadf202859a8 2
+tsc/testdata/tests/cases/compiler/exportEqualNamespaces.ts
+  s_b96252ac4a3d5a::t_e14658ff22d25a 2
+tsc/testdata/tests/cases/compiler/exportImport.ts
+  s_b96252ac4a3d5a::t_c6385c4eb5b5dc 2
+tsc/testdata/tests/cases/compiler/exportImportMultipleFiles.ts
+  s_b96252ac4a3d5a::t_4aad437cd61150 3
+tsc/testdata/tests/cases/compiler/exportImportNonInstantiatedModule2.ts
+  s_b96252ac4a3d5a::t_e3dcd56c9aa7e6 2
+tsc/testdata/tests/cases/compiler/exportStarForValues.ts
+  s_b96252ac4a3d5a::t_deaefdb9f47092 3
+tsc/testdata/tests/cases/compiler/exportStarForValues2.ts
+  s_b96252ac4a3d5a::t_f84688393dcbcc 3
+tsc/testdata/tests/cases/compiler/exportStarForValues3.ts
+  s_b96252ac4a3d5a::t_1b70b202e6ec0f 3
+tsc/testdata/tests/cases/compiler/exportStarForValues4.ts
+  s_b96252ac4a3d5a::t_c19901721282b7 3
+tsc/testdata/tests/cases/compiler/exportStarForValues5.ts
+  s_b96252ac4a3d5a::t_38d0ed54c79583 3
+tsc/testdata/tests/cases/compiler/exportStarForValues7.ts
+  s_b96252ac4a3d5a::t_42b3cd14cc735f 3
+tsc/testdata/tests/cases/compiler/exportStarForValues8.ts
+  s_b96252ac4a3d5a::t_47a4f1a26e8f49 3
+tsc/testdata/tests/cases/compiler/exportStarForValues9.ts
+  s_b96252ac4a3d5a::t_35e3ef4bfb7f0c 3
+tsc/testdata/tests/cases/compiler/exportedInterfaceInaccessibleInCallbackInModule.ts
+  s_b96252ac4a3d5a::t_4bbe54dfa6acfa 2
+tsc/testdata/tests/cases/compiler/exportedVariable1.ts
+  s_b96252ac4a3d5a::t_414396d1189ed2 2
+tsc/testdata/tests/cases/compiler/exportingContainingVisibleType.ts
+  s_b96252ac4a3d5a::t_a84180a35224eb 2
+tsc/testdata/tests/cases/compiler/exportsInAmbientModules1.ts
+  s_b96252ac4a3d5a::t_81139d7bafd799 2
+tsc/testdata/tests/cases/compiler/exportsInAmbientModules2.ts
+  s_b96252ac4a3d5a::t_d2ddaf73580b1b 2
+tsc/testdata/tests/cases/compiler/externalModuleAssignToVar.ts
+  s_b96252ac4a3d5a::t_b95d995b035084 2
+tsc/testdata/tests/cases/compiler/externalModuleReferenceOfImportDeclarationWithExportModifier.ts
+  s_b96252ac4a3d5a::t_b04225bfcee075 2
+tsc/testdata/tests/cases/compiler/genericClassesInModule2.ts
+  s_b96252ac4a3d5a::t_e507fa1082ca33 3
+tsc/testdata/tests/cases/compiler/genericInterfaceFunctionTypeParameter.ts
+  s_b96252ac4a3d5a::t_f6cd2076725b60 2
+tsc/testdata/tests/cases/compiler/genericRecursiveImplicitConstructorErrors1.ts
+  s_b96252ac4a3d5a::t_057b74cc56a2d2 2
+tsc/testdata/tests/cases/compiler/genericTypeWithMultipleBases2.ts
+  s_b96252ac4a3d5a::t_cfe1bdb926fa34 2
+tsc/testdata/tests/cases/compiler/genericWithIndexerOfTypeParameterType2.ts
+  s_b96252ac4a3d5a::t_c74d77ab982714 2
+tsc/testdata/tests/cases/compiler/importDeclWithExportModifier.ts
+  s_b96252ac4a3d5a::t_c0e9d363f73788 2
+tsc/testdata/tests/cases/compiler/importShadowsGlobalName.ts
+  s_b96252ac4a3d5a::t_b5663f1f9b5808 2
+tsc/testdata/tests/cases/compiler/import_reference-exported-alias.ts
+  s_b96252ac4a3d5a::t_c9e323f0f91234 17
+tsc/testdata/tests/cases/compiler/import_reference-to-type-alias.ts
+  s_b96252ac4a3d5a::t_b8ad90aa934e8b 14
+tsc/testdata/tests/cases/compiler/import_unneeded-require-when-referenecing-aliased-type-throug-array.ts
+  s_b96252ac4a3d5a::t_3bb96e7a5f88d1 11
+tsc/testdata/tests/cases/compiler/import_var-referencing-an-imported-module-alias.ts
+  s_b96252ac4a3d5a::t_c5294a3f7bd832 6
+tsc/testdata/tests/cases/compiler/importedAliasesInTypePositions.ts
+  s_b96252ac4a3d5a::t_9c4b078b959ec3 2,12
+tsc/testdata/tests/cases/compiler/importedModuleClassNameClash.ts
+  s_b96252ac4a3d5a::t_06c7331d443e96 2
+tsc/testdata/tests/cases/compiler/importsInAmbientModules1.ts
+  s_b96252ac4a3d5a::t_6c96133229c71f 2
+tsc/testdata/tests/cases/compiler/importsInAmbientModules2.ts
+  s_b96252ac4a3d5a::t_d9a9c04a6a47de 2
+tsc/testdata/tests/cases/compiler/importsInAmbientModules3.ts
+  s_b96252ac4a3d5a::t_4e7e44abfbd47c 2
+tsc/testdata/tests/cases/compiler/instanceOfInExternalModules.ts
+  s_b96252ac4a3d5a::t_3a81e174ddcff4 2
+tsc/testdata/tests/cases/compiler/interfaceDeclaration5.ts
+  s_b96252ac4a3d5a::t_cfdc9f6add515e 2
+tsc/testdata/tests/cases/compiler/internalAliasEnumInsideTopLevelModuleWithExport.ts
+  s_b96252ac4a3d5a::t_80aeab436e574e 2
+tsc/testdata/tests/cases/compiler/internalAliasEnumInsideTopLevelModuleWithoutExport.ts
+  s_b96252ac4a3d5a::t_7fa6a1fc3aa323 2
+tsc/testdata/tests/cases/compiler/internalAliasFunctionInsideTopLevelModuleWithExport.ts
+  s_b96252ac4a3d5a::t_5934b07f8a4a79 2
+tsc/testdata/tests/cases/compiler/internalAliasInitializedModuleInsideLocalModuleWithExport.ts
+  s_b96252ac4a3d5a::t_6280abc6f9e1c1 2
+tsc/testdata/tests/cases/compiler/internalAliasInitializedModuleInsideTopLevelModuleWithoutExport.ts
+  s_b96252ac4a3d5a::t_ff6a79c150db7d 2
+tsc/testdata/tests/cases/compiler/internalAliasInterfaceInsideLocalModuleWithExport.ts
+  s_b96252ac4a3d5a::t_4261b548093df3 2
+tsc/testdata/tests/cases/compiler/internalAliasInterfaceInsideLocalModuleWithoutExport.ts
+  s_b96252ac4a3d5a::t_d952ac4bcc9b11 2
+tsc/testdata/tests/cases/compiler/internalAliasInterfaceInsideTopLevelModuleWithoutExport.ts
+  s_b96252ac4a3d5a::t_dc25827c45fa44 2
+tsc/testdata/tests/cases/compiler/internalAliasUninitializedModuleInsideTopLevelModuleWithExport.ts
+  s_b96252ac4a3d5a::t_b8e8528dfd7170 3
+tsc/testdata/tests/cases/compiler/internalAliasVarInsideLocalModuleWithExport.ts
+  s_b96252ac4a3d5a::t_d8e76fc45debff 2
+tsc/testdata/tests/cases/compiler/internalAliasVarInsideLocalModuleWithoutExport.ts
+  s_b96252ac4a3d5a::t_d894a0096c434c 2
+tsc/testdata/tests/cases/compiler/internalAliasVarInsideTopLevelModuleWithExport.ts
+  s_b96252ac4a3d5a::t_dd268210aa65a4 2
+tsc/testdata/tests/cases/compiler/jsFileCompilationRestParamJsDocFunction.ts
+  s_b96252ac4a3d5a::t_a48ce27af05ec4 3-4
+tsc/testdata/tests/cases/compiler/keepImportsInDts1.ts
+  s_b96252ac4a3d5a::t_16fff511421375 2
+tsc/testdata/tests/cases/compiler/keepImportsInDts2.ts
+  s_b96252ac4a3d5a::t_083543243f2c69 2
+tsc/testdata/tests/cases/compiler/memberAccessMustUseModuleInstances.ts
+  s_b96252ac4a3d5a::t_7c98c08e5fc0a3 2
+tsc/testdata/tests/cases/compiler/mergedDeclarations6.ts
+  s_b96252ac4a3d5a::t_7f25cdeed23817 2
+tsc/testdata/tests/cases/compiler/moduleAliasAsFunctionArgument.ts
+  s_b96252ac4a3d5a::t_4e60c5519edc82 2
+tsc/testdata/tests/cases/compiler/moduleAugmentationCollidingNamesInAugmentation1.ts
+  s_b96252ac4a3d5a::t_f2f0e42a82628d 3
+tsc/testdata/tests/cases/compiler/moduleAugmentationsImports1.ts
+  s_b96252ac4a3d5a::t_fcc2e05086d13c 2,4
+tsc/testdata/tests/cases/compiler/moduleAugmentationsImports2.ts
+  s_b96252ac4a3d5a::t_ec2af59cd1243b 2,4
+tsc/testdata/tests/cases/compiler/moduleAugmentationsImports3.ts
+  s_b96252ac4a3d5a::t_0f22dc65867f71 2,4
+tsc/testdata/tests/cases/compiler/moduleAugmentationsImports4.ts
+  s_b96252ac4a3d5a::t_c2ba52975fcaaa 2,4
+tsc/testdata/tests/cases/compiler/moduleImportedForTypeArgumentPosition.ts
+  s_b96252ac4a3d5a::t_95e70e22beb34d 2
+tsc/testdata/tests/cases/compiler/moduleMergeConstructor.ts
+  s_b96252ac4a3d5a::t_17821de3a49c3b 2
+tsc/testdata/tests/cases/compiler/objectIndexer.ts
+  s_b96252ac4a3d5a::t_5c34f598e20af5 2
+tsc/testdata/tests/cases/compiler/pathMappingBasedModuleResolution2_classic.ts
+  s_b96252ac4a3d5a::t_6bdd72d979639e 2
+tsc/testdata/tests/cases/compiler/pathMappingBasedModuleResolution3_classic.ts
+  s_b96252ac4a3d5a::t_11d27946aa8b0a 3
+tsc/testdata/tests/cases/compiler/pathMappingBasedModuleResolution4_classic.ts
+  s_b96252ac4a3d5a::t_2d2be973ee103c 3
+tsc/testdata/tests/cases/compiler/pathMappingBasedModuleResolution5_classic.ts
+  s_b96252ac4a3d5a::t_c68d1a6c96f454 2
+tsc/testdata/tests/cases/compiler/pathMappingBasedModuleResolution6_classic.ts
+  s_b96252ac4a3d5a::t_bffc6549858d53 3
+tsc/testdata/tests/cases/compiler/pathMappingBasedModuleResolution7_classic.ts
+  s_b96252ac4a3d5a::t_789478eb0b4f5c 3
+tsc/testdata/tests/cases/compiler/pathMappingBasedModuleResolution8_classic.ts
+  s_b96252ac4a3d5a::t_114448d962c607 3
+tsc/testdata/tests/cases/compiler/privacyCheckAnonymousFunctionParameter2.ts
+  s_b96252ac4a3d5a::t_8bf61f136f13dc 2
+tsc/testdata/tests/cases/compiler/privacyCheckCallbackOfInterfaceMethodWithTypeParameter.ts
+  s_b96252ac4a3d5a::t_e8c5266b008643 3
+tsc/testdata/tests/cases/compiler/privacyCheckExportAssignmentOnExportedGenericInterface2.ts
+  s_b96252ac4a3d5a::t_46e3e815fa5aa9 2
+tsc/testdata/tests/cases/compiler/privacyCheckOnTypeParameterReferenceInConstructorParameter.ts
+  s_b96252ac4a3d5a::t_cb0ac2c262c43a 2
+tsc/testdata/tests/cases/compiler/privacyGetter.ts
+  s_b96252ac4a3d5a::t_a903dab7905d81 2
+tsc/testdata/tests/cases/compiler/privacyGloFunc.ts
+  s_b96252ac4a3d5a::t_0318c8fe820f76 2
+tsc/testdata/tests/cases/compiler/privacyLocalInternalReferenceImportWithoutExport.ts
+  s_b96252ac4a3d5a::t_e9adcdc84fbc1f 2
+tsc/testdata/tests/cases/compiler/privacyTopLevelInternalReferenceImportWithExport.ts
+  s_b96252ac4a3d5a::t_16b0d0eb1db791 2
+tsc/testdata/tests/cases/compiler/privacyTopLevelInternalReferenceImportWithoutExport.ts
+  s_b96252ac4a3d5a::t_787679d935fdbc 2
+tsc/testdata/tests/cases/compiler/privatePropertyUsingObjectType.ts
+  s_b96252ac4a3d5a::t_dcda3f1a8f1806 2
+tsc/testdata/tests/cases/compiler/relativeNamesInClassicResolution.ts
+  s_b96252ac4a3d5a::t_9b2d6161e51a20 2
+tsc/testdata/tests/cases/compiler/requireEmitSemicolon.ts
+  s_b96252ac4a3d5a::t_b7b01f991dae1a 2
+tsc/testdata/tests/cases/compiler/sourceMapValidationExportAssignment.ts
+  s_b96252ac4a3d5a::t_edc3926ba4a719 3
+tsc/testdata/tests/cases/compiler/topLevelExports.ts
+  s_b96252ac4a3d5a::t_441cb277019e03 3
+tsc/testdata/tests/cases/compiler/typeAliasDeclarationEmit2.ts
+  s_b96252ac4a3d5a::t_7200345ef63e4a 2
+tsc/testdata/tests/cases/compiler/typeParameterCompatibilityAccrossDeclarations.ts
+  s_b96252ac4a3d5a::t_142a4695276ac5 2
+tsc/testdata/tests/cases/compiler/typeResolution.ts
+  s_b96252ac4a3d5a::t_ed65a5d150104b 3
+tsc/testdata/tests/cases/compiler/varArgsOnConstructorTypes.ts
+  s_b96252ac4a3d5a::t_a67cc2822a5b28 3
+tsc/testdata/tests/cases/compiler/withExportDecl.ts
+  s_b96252ac4a3d5a::t_3b99f93241c25b 3
+tsc/testdata/tests/cases/compiler/withImportDecl.ts
+  s_b96252ac4a3d5a::t_01d5f284fdea83 3
+tsc/testdata/tests/cases/conformance/ambient/ambientExternalModuleMerging.ts
+  s_b96252ac4a3d5a::t_b35f33e388bc07 3
+tsc/testdata/tests/cases/conformance/ambient/ambientInsideNonAmbientExternalModule.ts
+  s_b96252ac4a3d5a::t_266e291574b8b7 3
+tsc/testdata/tests/cases/conformance/externalModules/exportAssignmentCircularModules.ts
+  s_b96252ac4a3d5a::t_67249154d7b30c 3
+tsc/testdata/tests/cases/conformance/externalModules/exportAssignmentMergedInterface.ts
+  s_b96252ac4a3d5a::t_917bea84a6a21e 2
+tsc/testdata/tests/cases/conformance/externalModules/exportAssignmentTopLevelClodule.ts
+  s_b96252ac4a3d5a::t_ba027bb1f4c7f1 2
+tsc/testdata/tests/cases/conformance/externalModules/exportAssignmentTopLevelEnumdule.ts
+  s_b96252ac4a3d5a::t_8b2749474ad69e 2
+tsc/testdata/tests/cases/conformance/externalModules/exportAssignmentTopLevelFundule.ts
+  s_b96252ac4a3d5a::t_c5bff3fbc07397 2
+tsc/testdata/tests/cases/conformance/externalModules/exportAssignmentTopLevelIdentifier.ts
+  s_b96252ac4a3d5a::t_eccc026af5acf1 2
+tsc/testdata/tests/cases/conformance/externalModules/importImportOnlyModule.ts
+  s_b96252ac4a3d5a::t_60efd5d41980de 2
+tsc/testdata/tests/cases/conformance/jsx/tsxElementResolution17.tsx
+  s_b96252ac4a3d5a::t_c3735208192ca0 3
+tsc/testdata/tests/cases/conformance/jsx/tsxPreserveEmit1.tsx
+  s_b96252ac4a3d5a::t_feb38153dfd1b5 1
+tsc/testdata/tests/cases/conformance/jsx/tsxPreserveEmit2.tsx
+  s_b96252ac4a3d5a::t_179cce120c7697 1
+tsc/testdata/tests/cases/conformance/jsx/tsxPreserveEmit3.tsx
+  s_b96252ac4a3d5a::t_82a691123e321e 3
+tsc/testdata/tests/cases/conformance/jsx/tsxSfcReturnNull.tsx
+  s_b96252ac4a3d5a::t_f1170a554b49b8 4
+tsc/testdata/tests/cases/conformance/jsx/tsxSfcReturnNullStrictNullChecks.tsx
+  s_b96252ac4a3d5a::t_d52680aca7ba87 4
+tsc/testdata/tests/cases/conformance/jsx/tsxStatelessFunctionComponentOverload1.tsx
+  s_b96252ac4a3d5a::t_ba34b575fd4479 4
+tsc/testdata/tests/cases/conformance/jsx/tsxStatelessFunctionComponentOverload2.tsx
+  s_b96252ac4a3d5a::t_a242e15dba808b 4
+tsc/testdata/tests/cases/conformance/jsx/tsxStatelessFunctionComponentOverload3.tsx
+  s_b96252ac4a3d5a::t_c5b5aeaef738e9 4
+tsc/testdata/tests/cases/conformance/jsx/tsxStatelessFunctionComponentWithDefaultTypeParameter1.tsx
+  s_b96252ac4a3d5a::t_668ddd17dc3a68 4
+tsc/testdata/tests/cases/conformance/jsx/tsxStatelessFunctionComponentWithDefaultTypeParameter2.tsx
+  s_b96252ac4a3d5a::t_31478eca9939ec 4
+tsc/testdata/tests/cases/conformance/jsx/tsxStatelessFunctionComponents3.tsx
+  s_b96252ac4a3d5a::t_4d707dfd74f35c 4
+tsc/testdata/tests/cases/conformance/jsx/tsxStatelessFunctionComponentsWithTypeArguments1.tsx
+  s_b96252ac4a3d5a::t_c7ae670a0096c7 4
+tsc/testdata/tests/cases/conformance/jsx/tsxStatelessFunctionComponentsWithTypeArguments2.tsx
+  s_b96252ac4a3d5a::t_28b8126ec82786 4
+tsc/testdata/tests/cases/conformance/jsx/tsxStatelessFunctionComponentsWithTypeArguments3.tsx
+  s_b96252ac4a3d5a::t_1e09868a3ac531 4
+tsc/testdata/tests/cases/conformance/jsx/tsxStatelessFunctionComponentsWithTypeArguments5.tsx
+  s_b96252ac4a3d5a::t_254fae2aa045ab 1,4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "24aa394e92c34e45a7b98153303738900a29bf59",
+  "prompts": {},
+  "sessions": {
+    "s_b96252ac4a3d5a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a05dc2-f54f-7d91-b2a4-46d351a49ff4",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Cameron <cclark@cloudflare.com>"
+    }
+  }
+}
