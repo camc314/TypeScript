@@ -1,0 +1,179 @@
+tsc/testdata/baselines/reference/compiler/controlFlowJavascript.js
+  s_b96252ac4a3d5a::t_3997801d8bbbb1 1,3-106,108-205
+tsc/testdata/baselines/reference/compiler/inlineSourceMap2(target=es2015).sourcemap.txt
+  s_b96252ac4a3d5a::t_7222e8957bc7a4 8
+tsc/testdata/baselines/reference/compiler/jsFileCompilationClassMethodContainingArrowFunction.js
+  s_b96252ac4a3d5a::t_b2a234024f5a15 1,3-8,10-15,17
+tsc/testdata/baselines/reference/compiler/jsFileCompilationDuplicateFunctionImplementation.js
+  s_b96252ac4a3d5a::t_4dc55aadcf4fed 14-18
+tsc/testdata/baselines/reference/compiler/jsFileCompilationDuplicateFunctionImplementationFileOrderReversed.js
+  s_b96252ac4a3d5a::t_1d9c720fb4dded 20-24
+tsc/testdata/baselines/reference/compiler/jsFileCompilationDuplicateVariable.js
+  s_b96252ac4a3d5a::t_c14ed80c643fda 13-15
+tsc/testdata/baselines/reference/compiler/jsFileCompilationDuplicateVariableErrorReported.js
+  s_b96252ac4a3d5a::t_38c77d777309c2 10-12
+tsc/testdata/baselines/reference/compiler/jsFileCompilationEmitDeclarations.js
+  s_b96252ac4a3d5a::t_cfed932ad2ca46 16-19
+tsc/testdata/baselines/reference/compiler/jsFileCompilationEmitTrippleSlashReference.js
+  s_b96252ac4a3d5a::t_7f546323c5d905 21-29
+tsc/testdata/baselines/reference/compiler/jsFileCompilationLetBeingRenamed.js
+  s_b96252ac4a3d5a::t_9336df43fc307e 1,3-8,10-15,17
+tsc/testdata/baselines/reference/compiler/jsFileCompilationLetDeclarationOrder.js
+  s_b96252ac4a3d5a::t_77391430191c56 12-15
+tsc/testdata/baselines/reference/compiler/jsFileCompilationLetDeclarationOrder2.js
+  s_b96252ac4a3d5a::t_d34760fb7aba3c 15-18
+tsc/testdata/baselines/reference/compiler/jsFileCompilationNonNullAssertion.js
+  s_b96252ac4a3d5a::t_5b32cbb7aa85b0 1-9
+tsc/testdata/baselines/reference/compiler/jsFileCompilationRestParameter.js
+  s_b96252ac4a3d5a::t_48e552771305cf 1-9
+tsc/testdata/baselines/reference/compiler/jsFileCompilationShortHandProperty.js
+  s_b96252ac4a3d5a::t_0af9e80c173ae1 1-23
+tsc/testdata/baselines/reference/compiler/jsFileCompilationTypeAssertions.js
+  s_b96252ac4a3d5a::t_5f365ba9959586 1-12
+tsc/testdata/baselines/reference/compiler/jsFileCompilationWithEnabledCompositeOption.js
+  s_b96252ac4a3d5a::t_ce90b34d5c291d 16-19
+tsc/testdata/baselines/reference/compiler/signaturesUseJSDocForOptionalParameters.js
+  s_b96252ac4a3d5a::t_11e280c1e4b210 1-35
+tsc/testdata/baselines/reference/conformance/checkJsdocOnEndOfFile.js
+  s_b96252ac4a3d5a::t_05c703870288db 1-13
+tsc/testdata/baselines/reference/conformance/checkJsdocReturnTag1.js
+  s_b96252ac4a3d5a::t_b8e2bdd16c7dcb 1-47
+tsc/testdata/baselines/reference/conformance/checkJsdocReturnTag2.js
+  s_b96252ac4a3d5a::t_08fcf40a9b3c0b 1-34
+tsc/testdata/baselines/reference/conformance/computedPropertyNames52(target=es2015).js
+  s_b96252ac4a3d5a::t_2df93e8ab5ae21 1-27
+tsc/testdata/baselines/reference/conformance/genericSetterInClassTypeJsDoc.js
+  s_b96252ac4a3d5a::t_6088ccb6952ef8 28-47
+tsc/testdata/baselines/reference/conformance/globalThisVarDeclaration.js
+  s_b96252ac4a3d5a::t_1ebf5d58f0182a 35-48
+tsc/testdata/baselines/reference/conformance/inferringClassMembersFromAssignments.js
+  s_b96252ac4a3d5a::t_679f1834a0f2ee 135-235
+tsc/testdata/baselines/reference/conformance/jsObjectsMarkedAsOpenEnded.js
+  s_b96252ac4a3d5a::t_654cee15235e09 38-56
+tsc/testdata/baselines/reference/conformance/jsObjectsMarkedAsOpenEnded.types
+  s_b96252ac4a3d5a::t_33a656b5a16a83 32,53
+tsc/testdata/baselines/reference/conformance/jsdocAccessibilityTagsDeclarations.js
+  s_b96252ac4a3d5a::t_c3cc0e512d9b66 43-79
+tsc/testdata/baselines/reference/conformance/jsdocLiteral.js
+  s_b96252ac4a3d5a::t_d047e85723d845 1-27
+tsc/testdata/baselines/reference/conformance/jsdocNeverUndefinedNull.js
+  s_b96252ac4a3d5a::t_47f74003a78d7a 1-23
+tsc/testdata/baselines/reference/conformance/jsdocReadonlyDeclarations.js
+  s_b96252ac4a3d5a::t_adae3910d984d2 30-53
+tsc/testdata/baselines/reference/conformance/jsdocReturnTag1.js
+  s_b96252ac4a3d5a::t_2db5e46f0f0d77 1-45
+tsc/testdata/baselines/reference/conformance/methodsReturningThis.js
+  s_b96252ac4a3d5a::t_36e398a736581b 1-39
+tsc/testdata/baselines/reference/conformance/multipleDeclarations.js
+  s_b96252ac4a3d5a::t_2dbcb3687ba506 1,3-37,39-55,57-63,65,67-69,71-75
+tsc/testdata/baselines/reference/conformance/topLevelThisAssignment.js
+  s_b96252ac4a3d5a::t_7be1e2aff44c36 1-21
+tsc/testdata/baselines/reference/conformance/typeSatisfaction_js.js
+  s_b96252ac4a3d5a::t_9ea684ff949e69 1-9
+tsc/testdata/baselines/reference/conformance/uniqueSymbolsDeclarationsInJs.js
+  s_b96252ac4a3d5a::t_3297f0608dc1c0 33-56
+tsc/testdata/baselines/reference/conformance/uniqueSymbolsDeclarationsInJsErrors.js
+  s_b96252ac4a3d5a::t_863a47ab41d45f 21-24
+tsc/testdata/tests/cases/compiler/blockScopedClassDeclarationAcrossFiles.ts
+  s_b96252ac4a3d5a::t_293c6d34dffc32 1
+tsc/testdata/tests/cases/compiler/checkIndexConstraintOfJavascriptClassExpression.ts
+  s_b96252ac4a3d5a::t_0dbddfd9e99cbe 1
+tsc/testdata/tests/cases/compiler/constDeclarations-useBeforeDefinition2.ts
+  s_b96252ac4a3d5a::t_6ecd78ba297115 1
+tsc/testdata/tests/cases/compiler/controlFlowJavascript.ts
+  s_b96252ac4a3d5a::t_5cf4fbb8655aaf 1
+tsc/testdata/tests/cases/compiler/inlineSourceMap2.ts
+  s_b96252ac4a3d5a::t_3c23cbba779e6b 1
+tsc/testdata/tests/cases/compiler/jsFileCompilationClassMethodContainingArrowFunction.ts
+  s_b96252ac4a3d5a::t_c9872999f15eb8 1
+tsc/testdata/tests/cases/compiler/jsFileCompilationDuplicateFunctionImplementation.ts
+  s_b96252ac4a3d5a::t_6e68ec2fe929bf 1
+tsc/testdata/tests/cases/compiler/jsFileCompilationDuplicateFunctionImplementationFileOrderReversed.ts
+  s_b96252ac4a3d5a::t_78886f3f3f1e2c 1
+tsc/testdata/tests/cases/compiler/jsFileCompilationDuplicateVariable.ts
+  s_b96252ac4a3d5a::t_1d59883d1de233 1
+tsc/testdata/tests/cases/compiler/jsFileCompilationDuplicateVariableErrorReported.ts
+  s_b96252ac4a3d5a::t_ff0f92e2c9202f 1
+tsc/testdata/tests/cases/compiler/jsFileCompilationEmitDeclarations.ts
+  s_b96252ac4a3d5a::t_40eea426ab18ad 1
+tsc/testdata/tests/cases/compiler/jsFileCompilationEmitTrippleSlashReference.ts
+  s_b96252ac4a3d5a::t_2aeff461028399 1
+tsc/testdata/tests/cases/compiler/jsFileCompilationLetBeingRenamed.ts
+  s_b96252ac4a3d5a::t_32ab8bf7f8eb56 1
+tsc/testdata/tests/cases/compiler/jsFileCompilationLetDeclarationOrder.ts
+  s_b96252ac4a3d5a::t_ead3928aac81cb 1
+tsc/testdata/tests/cases/compiler/jsFileCompilationLetDeclarationOrder2.ts
+  s_b96252ac4a3d5a::t_3ee290286675c9 1
+tsc/testdata/tests/cases/compiler/jsFileCompilationNonNullAssertion.ts
+  s_b96252ac4a3d5a::t_3d3cedbf3e404b 1
+tsc/testdata/tests/cases/compiler/jsFileCompilationRestParameter.ts
+  s_b96252ac4a3d5a::t_78646cfb443de0 1
+tsc/testdata/tests/cases/compiler/jsFileCompilationShortHandProperty.ts
+  s_b96252ac4a3d5a::t_d4aa1475da1e6c 1
+tsc/testdata/tests/cases/compiler/jsFileCompilationTypeAssertions.ts
+  s_b96252ac4a3d5a::t_3ba18358b8ddd2 1
+tsc/testdata/tests/cases/compiler/jsFileCompilationWithEnabledCompositeOption.ts
+  s_b96252ac4a3d5a::t_3c908ea1e45b2b 1
+tsc/testdata/tests/cases/compiler/letDeclarations-useBeforeDefinition2.ts
+  s_b96252ac4a3d5a::t_093a58b7f6844e 1
+tsc/testdata/tests/cases/compiler/moduleNoneDynamicImport.ts
+  s_b96252ac4a3d5a::t_dc73a8c2693397 1
+tsc/testdata/tests/cases/compiler/signaturesUseJSDocForOptionalParameters.ts
+  s_b96252ac4a3d5a::t_e6269ac14af2d3 1
+tsc/testdata/tests/cases/compiler/useBeforeDeclaration.ts
+  s_b96252ac4a3d5a::t_3779d1d78a9d51 1
+tsc/testdata/tests/cases/conformance/classes/members/classTypes/genericSetterInClassTypeJsDoc.ts
+  s_b96252ac4a3d5a::t_e75cc7cf8d4204 1
+tsc/testdata/tests/cases/conformance/es2019/globalThisVarDeclaration.ts
+  s_b96252ac4a3d5a::t_134fe13af513e5 1
+tsc/testdata/tests/cases/conformance/es6/computedProperties/computedPropertyNames52.ts
+  s_b96252ac4a3d5a::t_9067c1fe7cde6c 1
+tsc/testdata/tests/cases/conformance/expressions/typeSatisfaction/typeSatisfaction_js.ts
+  s_b96252ac4a3d5a::t_d841bad9b67c8e 1
+tsc/testdata/tests/cases/conformance/jsdoc/checkJsdocOnEndOfFile.ts
+  s_b96252ac4a3d5a::t_521bffc270b0c0 1
+tsc/testdata/tests/cases/conformance/jsdoc/checkJsdocReturnTag1.ts
+  s_b96252ac4a3d5a::t_19e450cfc2a5ff 1
+tsc/testdata/tests/cases/conformance/jsdoc/checkJsdocReturnTag2.ts
+  s_b96252ac4a3d5a::t_2ae2ab29f7acd5 1
+tsc/testdata/tests/cases/conformance/jsdoc/jsdocAccessibilityTagsDeclarations.ts
+  s_b96252ac4a3d5a::t_c7ea3554efa4a8 1
+tsc/testdata/tests/cases/conformance/jsdoc/jsdocLiteral.ts
+  s_b96252ac4a3d5a::t_2a4e16b520622e 1
+tsc/testdata/tests/cases/conformance/jsdoc/jsdocNeverUndefinedNull.ts
+  s_b96252ac4a3d5a::t_0c89f52996f2cd 1
+tsc/testdata/tests/cases/conformance/jsdoc/jsdocReadonlyDeclarations.ts
+  s_b96252ac4a3d5a::t_d3c69fde012b3a 1
+tsc/testdata/tests/cases/conformance/jsdoc/jsdocReturnTag1.ts
+  s_b96252ac4a3d5a::t_eccabbd7cab39d 1
+tsc/testdata/tests/cases/conformance/salsa/inferringClassMembersFromAssignments.ts
+  s_b96252ac4a3d5a::t_0ed7c6e0172c1e 1
+tsc/testdata/tests/cases/conformance/salsa/jsObjectsMarkedAsOpenEnded.ts
+  s_b96252ac4a3d5a::t_698f8ea6c711d0 1
+tsc/testdata/tests/cases/conformance/salsa/methodsReturningThis.ts
+  s_b96252ac4a3d5a::t_43079f03cdb5f4 1
+tsc/testdata/tests/cases/conformance/salsa/multipleDeclarations.ts
+  s_b96252ac4a3d5a::t_459cecb57f1fb0 1
+tsc/testdata/tests/cases/conformance/salsa/topLevelThisAssignment.ts
+  s_b96252ac4a3d5a::t_9310bd5c43311e 1
+tsc/testdata/tests/cases/conformance/types/uniqueSymbol/uniqueSymbolsDeclarationsInJs.ts
+  s_b96252ac4a3d5a::t_e3307b4da87878 1
+tsc/testdata/tests/cases/conformance/types/uniqueSymbol/uniqueSymbolsDeclarationsInJsErrors.ts
+  s_b96252ac4a3d5a::t_9fc67b3751dd2f 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "76e84f5f212ed1f2521794c6665645663022ef8d",
+  "prompts": {},
+  "sessions": {
+    "s_b96252ac4a3d5a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a05dc2-f54f-7d91-b2a4-46d351a49ff4",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Cameron <cclark@cloudflare.com>"
+    }
+  }
+}
