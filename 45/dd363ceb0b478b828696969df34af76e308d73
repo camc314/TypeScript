@@ -1,0 +1,23 @@
+tsc/internal/fourslash/tests/autoImportPathsNodeModules_test.go
+  s_555bdd00191282::t_666d07db9d4734 17
+tsc/internal/fourslash/tests/autoImportsWithRootDirsAndRootedPath01_test.go
+  s_555bdd00191282::t_9bd235fe25bdf7 21
+tsc/internal/fourslash/tests/importNameCodeFixNewImportAllowSyntheticDefaultImports4_test.go
+  s_555bdd00191282::t_577f878f822eb9 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "45dd363ceb0b478b828696969df34af76e308d73",
+  "prompts": {},
+  "sessions": {
+    "s_555bdd00191282": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a05c10-95a3-78e3-bfeb-a54856c3231d",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Cameron <cclark@cloudflare.com>"
+    }
+  }
+}
