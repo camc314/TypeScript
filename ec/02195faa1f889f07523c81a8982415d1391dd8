@@ -1,0 +1,1251 @@
+tsc/testdata/baselines/reference/compiler/ambientExternalModuleWithInternalImportDeclaration.errors.txt
+  s_b96252ac4a3d5a::t_66a2d22026edcd 1-22
+tsc/testdata/baselines/reference/compiler/ambientExternalModuleWithInternalImportDeclaration.js
+  s_b96252ac4a3d5a::t_e897c0cbc6a811 1-25
+tsc/testdata/baselines/reference/compiler/ambientExternalModuleWithInternalImportDeclaration.symbols
+  s_b96252ac4a3d5a::t_28cb67f95efac7 1-36
+tsc/testdata/baselines/reference/compiler/ambientExternalModuleWithInternalImportDeclaration.types
+  s_b96252ac4a3d5a::t_5f02f2825339b2 1-37
+tsc/testdata/baselines/reference/compiler/ambientExternalModuleWithoutInternalImportDeclaration.errors.txt
+  s_b96252ac4a3d5a::t_1b1f432e8d6223 1-21
+tsc/testdata/baselines/reference/compiler/ambientExternalModuleWithoutInternalImportDeclaration.js
+  s_b96252ac4a3d5a::t_caf5339d234728 1-24
+tsc/testdata/baselines/reference/compiler/ambientExternalModuleWithoutInternalImportDeclaration.symbols
+  s_b96252ac4a3d5a::t_a5aa1b5ec24cda 1-32
+tsc/testdata/baselines/reference/compiler/ambientExternalModuleWithoutInternalImportDeclaration.types
+  s_b96252ac4a3d5a::t_58d71bdfeb044e 1-33
+tsc/testdata/baselines/reference/compiler/augmentExportEquals1_1.errors.txt
+  s_b96252ac4a3d5a::t_0ca8530f8904cf 1-31
+tsc/testdata/baselines/reference/compiler/augmentExportEquals1_1.js
+  s_b96252ac4a3d5a::t_22515fad28f7ab 1-26
+tsc/testdata/baselines/reference/compiler/augmentExportEquals1_1.symbols
+  s_b96252ac4a3d5a::t_c4accbeee64626 1-12
+tsc/testdata/baselines/reference/compiler/augmentExportEquals1_1.types
+  s_b96252ac4a3d5a::t_38f7089f481263 1-11
+tsc/testdata/baselines/reference/compiler/augmentExportEquals2_1.errors.txt
+  s_b96252ac4a3d5a::t_4d974ebb1f1cdd 1-30
+tsc/testdata/baselines/reference/compiler/augmentExportEquals2_1.js
+  s_b96252ac4a3d5a::t_510e1196c6d099 1-25
+tsc/testdata/baselines/reference/compiler/augmentExportEquals2_1.symbols
+  s_b96252ac4a3d5a::t_0ad7e40ccc2eac 1-12
+tsc/testdata/baselines/reference/compiler/augmentExportEquals2_1.types
+  s_b96252ac4a3d5a::t_b70e911d0a5875 1-11
+tsc/testdata/baselines/reference/compiler/augmentExportEquals3_1.errors.txt
+  s_b96252ac4a3d5a::t_f6a821c60e73d7 1-34
+tsc/testdata/baselines/reference/compiler/augmentExportEquals3_1.js
+  s_b96252ac4a3d5a::t_464c1019cc2b21 1-37
+tsc/testdata/baselines/reference/compiler/augmentExportEquals3_1.symbols
+  s_b96252ac4a3d5a::t_b334123af88a73 1-58
+tsc/testdata/baselines/reference/compiler/augmentExportEquals3_1.types
+  s_b96252ac4a3d5a::t_314c63aa5df250 1-58
+tsc/testdata/baselines/reference/compiler/augmentExportEquals4_1.errors.txt
+  s_b96252ac4a3d5a::t_b7ef23c34b1885 1-34
+tsc/testdata/baselines/reference/compiler/augmentExportEquals4_1.js
+  s_b96252ac4a3d5a::t_27ef897ee2d649 1-37
+tsc/testdata/baselines/reference/compiler/augmentExportEquals4_1.symbols
+  s_b96252ac4a3d5a::t_c41969a5bf6006 1-58
+tsc/testdata/baselines/reference/compiler/augmentExportEquals4_1.types
+  s_b96252ac4a3d5a::t_5ee7523ee43af2 1-58
+tsc/testdata/baselines/reference/compiler/augmentExportEquals6_1.errors.txt
+  s_b96252ac4a3d5a::t_cbfa159e87ed82 1-32
+tsc/testdata/baselines/reference/compiler/augmentExportEquals6_1.js
+  s_b96252ac4a3d5a::t_4f740987624b2a 1-33
+tsc/testdata/baselines/reference/compiler/augmentExportEquals6_1.symbols
+  s_b96252ac4a3d5a::t_1ad404351585f6 1-50
+tsc/testdata/baselines/reference/compiler/augmentExportEquals6_1.types
+  s_b96252ac4a3d5a::t_a8e5ce62fd42ac 1-48
+tsc/testdata/baselines/reference/compiler/augmentedTypesExternalModule1.js
+  s_b96252ac4a3d5a::t_25648881226d03 1-12
+tsc/testdata/baselines/reference/compiler/augmentedTypesExternalModule1.symbols
+  s_b96252ac4a3d5a::t_315160d814c075 1-13
+tsc/testdata/baselines/reference/compiler/augmentedTypesExternalModule1.types
+  s_b96252ac4a3d5a::t_b082f8e7fa8a33 1-12
+tsc/testdata/baselines/reference/compiler/bangInModuleName.js
+  s_b96252ac4a3d5a::t_ae5a3fecc56e6e 1-19
+tsc/testdata/baselines/reference/compiler/bangInModuleName.symbols
+  s_b96252ac4a3d5a::t_9b0c39f6e710f8 1-23
+tsc/testdata/baselines/reference/compiler/bangInModuleName.types
+  s_b96252ac4a3d5a::t_aada4768d25367 1-23
+tsc/testdata/baselines/reference/compiler/blockScopedNamespaceDifferentFile(target=es2015).js
+  s_b96252ac4a3d5a::t_3cfd0cec2a2a43 1-32
+tsc/testdata/baselines/reference/compiler/blockScopedNamespaceDifferentFile(target=es2015).symbols
+  s_b96252ac4a3d5a::t_f37272944821d3 1-45
+tsc/testdata/baselines/reference/compiler/blockScopedNamespaceDifferentFile(target=es2015).types
+  s_b96252ac4a3d5a::t_c7f20d662abed0 1-47
+tsc/testdata/baselines/reference/compiler/cacheResolutions.js
+  s_b96252ac4a3d5a::t_ec74403859741b 1-17
+tsc/testdata/baselines/reference/compiler/cacheResolutions.symbols
+  s_b96252ac4a3d5a::t_8a533b39b52ab5 1-14
+tsc/testdata/baselines/reference/compiler/cacheResolutions.trace.json
+  s_b96252ac4a3d5a::t_0e88375d28bc2c 1-57
+tsc/testdata/baselines/reference/compiler/cacheResolutions.types
+  s_b96252ac4a3d5a::t_251fa741e59246 1-17
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndClass.js
+  s_b96252ac4a3d5a::t_9dc1cd99c740bf 1-81
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndClass.symbols
+  s_b96252ac4a3d5a::t_8e11c587dcc113 1-57
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndClass.types
+  s_b96252ac4a3d5a::t_2f9b9000c1d47a 1-57
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndEnum.js
+  s_b96252ac4a3d5a::t_1b138b6d34aacd 1-137
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndEnum.symbols
+  s_b96252ac4a3d5a::t_aad2313d96a87a 1-129
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndEnum.types
+  s_b96252ac4a3d5a::t_fa907e683e691f 1-129
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndFunction.js
+  s_b96252ac4a3d5a::t_1aa11c34ca335b 1-53
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndFunction.symbols
+  s_b96252ac4a3d5a::t_93e400e3930e49 1-41
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndFunction.types
+  s_b96252ac4a3d5a::t_aa11125e3e7353 1-47
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndInternalModuleAlias.js
+  s_b96252ac4a3d5a::t_28da23f3d7dbfc 1-51
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndInternalModuleAlias.symbols
+  s_b96252ac4a3d5a::t_29e03f1c205c93 1-65
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndInternalModuleAlias.types
+  s_b96252ac4a3d5a::t_62b08fb02a5b8a 1-71
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndModule.errors.txt
+  s_b96252ac4a3d5a::t_b3c2a403efbdfb 1-98
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndModule.js
+  s_b96252ac4a3d5a::t_39b1d138927a84 1-186
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndModule.symbols
+  s_b96252ac4a3d5a::t_a52dc0a517f36b 1-156
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndModule.types
+  s_b96252ac4a3d5a::t_14fc3fbea9b1b9 1-142
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndUninstantiatedModule.errors.txt
+  s_b96252ac4a3d5a::t_400bbe95bef80b 1-23
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndUninstantiatedModule.js
+  s_b96252ac4a3d5a::t_7dc2cde550001c 1-25
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndUninstantiatedModule.symbols
+  s_b96252ac4a3d5a::t_dc2498f7a15faa 1-31
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndUninstantiatedModule.types
+  s_b96252ac4a3d5a::t_c620f4a0dbb709 1-23
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndVar.js
+  s_b96252ac4a3d5a::t_72afe08a011d9e 1-57
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndVar.symbols
+  s_b96252ac4a3d5a::t_199f800e2f0ce9 1-56
+tsc/testdata/baselines/reference/compiler/collisionExportsRequireAndVar.types
+  s_b96252ac4a3d5a::t_48a09e780a11fc 1-68
+tsc/testdata/baselines/reference/compiler/commentsBeforeVariableStatement1.js
+  s_b96252ac4a3d5a::t_3b2c863fad4b33 1-10
+tsc/testdata/baselines/reference/compiler/commentsBeforeVariableStatement1.symbols
+  s_b96252ac4a3d5a::t_2f698bbca28617 1-7
+tsc/testdata/baselines/reference/compiler/commentsBeforeVariableStatement1.types
+  s_b96252ac4a3d5a::t_39f97ab9e515ec 1-7
+tsc/testdata/baselines/reference/compiler/commentsDottedModuleName(target=es2015).js
+  s_b96252ac4a3d5a::t_ae084d696ca913 1-30
+tsc/testdata/baselines/reference/compiler/commentsDottedModuleName(target=es2015).symbols
+  s_b96252ac4a3d5a::t_acaaadad5a1797 1-13
+tsc/testdata/baselines/reference/compiler/commentsDottedModuleName(target=es2015).types
+  s_b96252ac4a3d5a::t_918273cd14060b 1-13
+tsc/testdata/baselines/reference/compiler/commentsExternalModules(target=es2015).errors.txt
+  s_b96252ac4a3d5a::t_0d69fbc54bc3bb 1-67
+tsc/testdata/baselines/reference/compiler/commentsExternalModules(target=es2015).js
+  s_b96252ac4a3d5a::t_7c9d85bfbd98ea 1-72
+tsc/testdata/baselines/reference/compiler/commentsExternalModules(target=es2015).symbols
+  s_b96252ac4a3d5a::t_848c0c506a5d02 1-21
+tsc/testdata/baselines/reference/compiler/commentsExternalModules(target=es2015).types
+  s_b96252ac4a3d5a::t_47fc5c1283bf74 1-45
+tsc/testdata/baselines/reference/compiler/commentsExternalModules2(target=es2015).errors.txt
+  s_b96252ac4a3d5a::t_6f2631956fd148 1-67
+tsc/testdata/baselines/reference/compiler/commentsExternalModules2(target=es2015).js
+  s_b96252ac4a3d5a::t_3fa7eb536a70f0 1-72
+tsc/testdata/baselines/reference/compiler/commentsExternalModules2(target=es2015).symbols
+  s_b96252ac4a3d5a::t_85dfd625af17e0 1-21
+tsc/testdata/baselines/reference/compiler/commentsExternalModules2(target=es2015).types
+  s_b96252ac4a3d5a::t_5a78d28513a4bd 1-45
+tsc/testdata/baselines/reference/compiler/commentsMultiModuleMultiFile(target=es2015).errors.txt
+  s_b96252ac4a3d5a::t_bef28234acc705 1-42
+tsc/testdata/baselines/reference/compiler/commentsMultiModuleMultiFile(target=es2015).js
+  s_b96252ac4a3d5a::t_66f481f6424f83 1-62
+tsc/testdata/baselines/reference/compiler/commentsMultiModuleMultiFile(target=es2015).symbols
+  s_b96252ac4a3d5a::t_d3005f0d30ec82 1-25
+tsc/testdata/baselines/reference/compiler/commentsMultiModuleMultiFile(target=es2015).types
+  s_b96252ac4a3d5a::t_62eb7f2bce6c29 1-26
+tsc/testdata/baselines/reference/compiler/constEnumExternalModule.errors.txt
+  s_b96252ac4a3d5a::t_f2f152c82ce5a0 1-17
+tsc/testdata/baselines/reference/compiler/constEnumExternalModule.js
+  s_b96252ac4a3d5a::t_5b3fd461adfa31 1-15
+tsc/testdata/baselines/reference/compiler/constEnumExternalModule.symbols
+  s_b96252ac4a3d5a::t_46ae90e8365d31 1-10
+tsc/testdata/baselines/reference/compiler/constEnumExternalModule.types
+  s_b96252ac4a3d5a::t_0fc0714f595aab 1-12
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues1.errors.txt
+  s_b96252ac4a3d5a::t_0cb66d7d74fe81 1-12
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues1.js
+  s_b96252ac4a3d5a::t_06aecc188c5e35 1-13
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues1.symbols
+  s_b96252ac4a3d5a::t_3983c0444db1d8 1-17
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues1.types
+  s_b96252ac4a3d5a::t_5607a1c18b6255 1-15
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues2.errors.txt
+  s_b96252ac4a3d5a::t_63ae81443e22ab 1-12
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues2.js
+  s_b96252ac4a3d5a::t_a8847f732b3c39 1-14
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues2.symbols
+  s_b96252ac4a3d5a::t_96cc698aed8d06 1-17
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues2.types
+  s_b96252ac4a3d5a::t_a0633bbdd27bbc 1-15
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues3.errors.txt
+  s_b96252ac4a3d5a::t_3a6d40cf69fb33 1-12
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues3.js
+  s_b96252ac4a3d5a::t_665cfede560561 1-16
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues3.symbols
+  s_b96252ac4a3d5a::t_fe561029d61d4a 1-18
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues3.types
+  s_b96252ac4a3d5a::t_c9ab41ed6ff2af 1-16
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues4.errors.txt
+  s_b96252ac4a3d5a::t_34d888e05ebaff 1-16
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues4.js
+  s_b96252ac4a3d5a::t_26a7a4a49fb87a 1-20
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues4.symbols
+  s_b96252ac4a3d5a::t_fa4f9dbd834018 1-22
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues4.types
+  s_b96252ac4a3d5a::t_00dcb50dbfc594 1-21
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues5.errors.txt
+  s_b96252ac4a3d5a::t_9a1ad1500d8c55 1-11
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues5.js
+  s_b96252ac4a3d5a::t_c8dd09982993b3 1-18
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues5.symbols
+  s_b96252ac4a3d5a::t_4e2a2b376bc607 1-14
+tsc/testdata/baselines/reference/compiler/constEnumMergingWithValues5.types
+  s_b96252ac4a3d5a::t_0ed37b882411a4 1-12
+tsc/testdata/baselines/reference/compiler/crashIntypeCheckObjectCreationExpression.errors.txt
+  s_b96252ac4a3d5a::t_e4374a62afb18b 1-14
+tsc/testdata/baselines/reference/compiler/crashIntypeCheckObjectCreationExpression.js
+  s_b96252ac4a3d5a::t_21977c298bde6b 1-20
+tsc/testdata/baselines/reference/compiler/crashIntypeCheckObjectCreationExpression.symbols
+  s_b96252ac4a3d5a::t_d5a38e48345683 1-28
+tsc/testdata/baselines/reference/compiler/crashIntypeCheckObjectCreationExpression.types
+  s_b96252ac4a3d5a::t_336cdad3641040 1-25
+tsc/testdata/baselines/reference/compiler/declFileExportAssignmentOfGenericInterface.errors.txt
+  s_b96252ac4a3d5a::t_60e2f626bf4ba6 1-18
+tsc/testdata/baselines/reference/compiler/declFileExportAssignmentOfGenericInterface.js
+  s_b96252ac4a3d5a::t_007eacce380d45 1-21
+tsc/testdata/baselines/reference/compiler/declFileExportAssignmentOfGenericInterface.symbols
+  s_b96252ac4a3d5a::t_ba3e49ea7698d4 1-14
+tsc/testdata/baselines/reference/compiler/declFileExportAssignmentOfGenericInterface.types
+  s_b96252ac4a3d5a::t_46ae57b275454a 1-14
+tsc/testdata/baselines/reference/compiler/declFileExportImportChain.errors.txt
+  s_b96252ac4a3d5a::t_2e4e0b90d70f91 1-30
+tsc/testdata/baselines/reference/compiler/declFileExportImportChain.js
+  s_b96252ac4a3d5a::t_e538e84f8725e4 1-32
+tsc/testdata/baselines/reference/compiler/declFileExportImportChain.symbols
+  s_b96252ac4a3d5a::t_ced062ee4cc8e8 1-14
+tsc/testdata/baselines/reference/compiler/declFileExportImportChain.types
+  s_b96252ac4a3d5a::t_d2e3bac4af456c 1-13
+tsc/testdata/baselines/reference/compiler/declFileExportImportChain2.errors.txt
+  s_b96252ac4a3d5a::t_090dd120c573dc 1-27
+tsc/testdata/baselines/reference/compiler/declFileExportImportChain2.js
+  s_b96252ac4a3d5a::t_b8e349f0993ebb 1-29
+tsc/testdata/baselines/reference/compiler/declFileExportImportChain2.symbols
+  s_b96252ac4a3d5a::t_5e434962aeddab 1-13
+tsc/testdata/baselines/reference/compiler/declFileExportImportChain2.types
+  s_b96252ac4a3d5a::t_c73359b7010667 1-12
+tsc/testdata/baselines/reference/compiler/declarationMerging2.js
+  s_b96252ac4a3d5a::t_39957bcbb44366 1-22
+tsc/testdata/baselines/reference/compiler/declarationMerging2.symbols
+  s_b96252ac4a3d5a::t_c93f4e0356bc80 1-28
+tsc/testdata/baselines/reference/compiler/declarationMerging2.types
+  s_b96252ac4a3d5a::t_023104f384e26b 1-26
+tsc/testdata/baselines/reference/compiler/dependencyViaImportAlias.errors.txt
+  s_b96252ac4a3d5a::t_d1d7810507a8e5 1-20
+tsc/testdata/baselines/reference/compiler/dependencyViaImportAlias.js
+  s_b96252ac4a3d5a::t_30a5350e1c379f 1-15
+tsc/testdata/baselines/reference/compiler/dependencyViaImportAlias.symbols
+  s_b96252ac4a3d5a::t_26318f83787bf4 1-14
+tsc/testdata/baselines/reference/compiler/dependencyViaImportAlias.types
+  s_b96252ac4a3d5a::t_e69f898c0c8a1b 1-14
+tsc/testdata/baselines/reference/compiler/destructuringInVariableDeclarations3.js
+  s_b96252ac4a3d5a::t_22d6fc249e75b7 1-14
+tsc/testdata/baselines/reference/compiler/destructuringInVariableDeclarations3.symbols
+  s_b96252ac4a3d5a::t_e21f4a0154661d 1-10
+tsc/testdata/baselines/reference/compiler/destructuringInVariableDeclarations3.types
+  s_b96252ac4a3d5a::t_8154bc751c7303 1-12
+tsc/testdata/baselines/reference/compiler/destructuringInVariableDeclarations4.js
+  s_b96252ac4a3d5a::t_355b9d5dd266b1 1-16
+tsc/testdata/baselines/reference/compiler/destructuringInVariableDeclarations4.symbols
+  s_b96252ac4a3d5a::t_eb41c06359702b 1-11
+tsc/testdata/baselines/reference/compiler/destructuringInVariableDeclarations4.types
+  s_b96252ac4a3d5a::t_a651e2c3cef63c 1-13
+tsc/testdata/baselines/reference/compiler/duplicateIdentifierShouldNotShortCircuitBaseTypeBinding.js
+  s_b96252ac4a3d5a::t_f318a138dd3675 1-35
+tsc/testdata/baselines/reference/compiler/duplicateIdentifierShouldNotShortCircuitBaseTypeBinding.symbols
+  s_b96252ac4a3d5a::t_c95867ba7b5171 1-25
+tsc/testdata/baselines/reference/compiler/duplicateIdentifierShouldNotShortCircuitBaseTypeBinding.types
+  s_b96252ac4a3d5a::t_868ae222f49d9c 1-23
+tsc/testdata/baselines/reference/compiler/dynamicRequire.errors.txt
+  s_b96252ac4a3d5a::t_aa552a7c2df082 1-11
+tsc/testdata/baselines/reference/compiler/dynamicRequire.symbols
+  s_b96252ac4a3d5a::t_d9667bb8421b04 1-13
+tsc/testdata/baselines/reference/compiler/dynamicRequire.types
+  s_b96252ac4a3d5a::t_eb6551b267a64f 1-16
+tsc/testdata/baselines/reference/compiler/es6ImportDefaultBindingFollowedWithNamespaceBinding1WithExport(target=es2015).errors.txt
+  s_b96252ac4a3d5a::t_b23ef352f7bfcd 1-12
+tsc/testdata/baselines/reference/compiler/es6ImportDefaultBindingFollowedWithNamespaceBinding1WithExport(target=es2015).js
+  s_b96252ac4a3d5a::t_c389bc92e7ce05 1-23
+tsc/testdata/baselines/reference/compiler/es6ImportDefaultBindingFollowedWithNamespaceBinding1WithExport(target=es2015).symbols
+  s_b96252ac4a3d5a::t_2042787c3527e1 1-18
+tsc/testdata/baselines/reference/compiler/es6ImportDefaultBindingFollowedWithNamespaceBinding1WithExport(target=es2015).types
+  s_b96252ac4a3d5a::t_2dfaa532090e19 1-19
+tsc/testdata/baselines/reference/compiler/es6ImportDefaultBindingFollowedWithNamespaceBindingDts1(target=es2015).js
+  s_b96252ac4a3d5a::t_839f7acc9bbb7a 1-26
+tsc/testdata/baselines/reference/compiler/es6ImportDefaultBindingFollowedWithNamespaceBindingDts1(target=es2015).symbols
+  s_b96252ac4a3d5a::t_ea567a71777641 1-18
+tsc/testdata/baselines/reference/compiler/es6ImportDefaultBindingFollowedWithNamespaceBindingDts1(target=es2015).types
+  s_b96252ac4a3d5a::t_03fae6d60589fc 1-19
+tsc/testdata/baselines/reference/compiler/es6ImportNameSpaceImportWithExport.errors.txt
+  s_b96252ac4a3d5a::t_dd0c277186926c 1-22
+tsc/testdata/baselines/reference/compiler/es6ImportNameSpaceImportWithExport.js
+  s_b96252ac4a3d5a::t_8422b000f1894a 1-22
+tsc/testdata/baselines/reference/compiler/es6ImportNameSpaceImportWithExport.symbols
+  s_b96252ac4a3d5a::t_548994382d01fc 1-17
+tsc/testdata/baselines/reference/compiler/es6ImportNameSpaceImportWithExport.types
+  s_b96252ac4a3d5a::t_c7b77b2a4b75ba 1-20
+tsc/testdata/baselines/reference/compiler/exportAssignedTypeAsTypeAnnotation.errors.txt
+  s_b96252ac4a3d5a::t_9f0d8150ab05a2 1-23
+tsc/testdata/baselines/reference/compiler/exportAssignedTypeAsTypeAnnotation.js
+  s_b96252ac4a3d5a::t_c4263dd9f28be7 1-20
+tsc/testdata/baselines/reference/compiler/exportAssignedTypeAsTypeAnnotation.symbols
+  s_b96252ac4a3d5a::t_fbbcc693befe05 1-24
+tsc/testdata/baselines/reference/compiler/exportAssignedTypeAsTypeAnnotation.types
+  s_b96252ac4a3d5a::t_254e9f8a3e1429 1-19
+tsc/testdata/baselines/reference/compiler/exportAssignmentClass.errors.txt
+  s_b96252ac4a3d5a::t_e177f73fec0cf7 1-18
+tsc/testdata/baselines/reference/compiler/exportAssignmentClass.js
+  s_b96252ac4a3d5a::t_b78c05f588e5e2 1-17
+tsc/testdata/baselines/reference/compiler/exportAssignmentClass.symbols
+  s_b96252ac4a3d5a::t_7378c797c9fa6f 1-14
+tsc/testdata/baselines/reference/compiler/exportAssignmentClass.types
+  s_b96252ac4a3d5a::t_a1f8a367bce90d 1-17
+tsc/testdata/baselines/reference/compiler/exportAssignmentError.errors.txt
+  s_b96252ac4a3d5a::t_913bf8b98404fd 1-14
+tsc/testdata/baselines/reference/compiler/exportAssignmentError.js
+  s_b96252ac4a3d5a::t_d0d9d188d1aa08 1-18
+tsc/testdata/baselines/reference/compiler/exportAssignmentError.symbols
+  s_b96252ac4a3d5a::t_173b53d77eab50 1-17
+tsc/testdata/baselines/reference/compiler/exportAssignmentError.types
+  s_b96252ac4a3d5a::t_214d463c17b1cf 1-17
+tsc/testdata/baselines/reference/compiler/exportAssignmentFunction.errors.txt
+  s_b96252ac4a3d5a::t_fb5d45a6c714ce 1-17
+tsc/testdata/baselines/reference/compiler/exportAssignmentFunction.js
+  s_b96252ac4a3d5a::t_7f85f49d63999f 1-15
+tsc/testdata/baselines/reference/compiler/exportAssignmentFunction.symbols
+  s_b96252ac4a3d5a::t_86946729a6ebd3 1-10
+tsc/testdata/baselines/reference/compiler/exportAssignmentFunction.types
+  s_b96252ac4a3d5a::t_2ee415132cbb15 1-11
+tsc/testdata/baselines/reference/compiler/exportAssignmentInterface.errors.txt
+  s_b96252ac4a3d5a::t_cd55730f710b75 1-21
+tsc/testdata/baselines/reference/compiler/exportAssignmentInterface.js
+  s_b96252ac4a3d5a::t_71f6db5db707c2 1-20
+tsc/testdata/baselines/reference/compiler/exportAssignmentInterface.symbols
+  s_b96252ac4a3d5a::t_c1280a185920ec 1-14
+tsc/testdata/baselines/reference/compiler/exportAssignmentInterface.types
+  s_b96252ac4a3d5a::t_78f2a3a3f683f9 1-15
+tsc/testdata/baselines/reference/compiler/exportAssignmentInternalModule.errors.txt
+  s_b96252ac4a3d5a::t_4b2b2c68c062d7 1-19
+tsc/testdata/baselines/reference/compiler/exportAssignmentInternalModule.js
+  s_b96252ac4a3d5a::t_3de5a8d36b5d4a 1-17
+tsc/testdata/baselines/reference/compiler/exportAssignmentInternalModule.symbols
+  s_b96252ac4a3d5a::t_4996bf519fa49a 1-10
+tsc/testdata/baselines/reference/compiler/exportAssignmentInternalModule.types
+  s_b96252ac4a3d5a::t_e921f868214b26 1-12
+tsc/testdata/baselines/reference/compiler/exportAssignmentOfGenericType1.errors.txt
+  s_b96252ac4a3d5a::t_2e2f29cd5ae2f9 1-32
+tsc/testdata/baselines/reference/compiler/exportAssignmentOfGenericType1.js
+  s_b96252ac4a3d5a::t_cd655b0c186e53 1-25
+tsc/testdata/baselines/reference/compiler/exportAssignmentOfGenericType1.symbols
+  s_b96252ac4a3d5a::t_505f2c769de37d 1-29
+tsc/testdata/baselines/reference/compiler/exportAssignmentOfGenericType1.types
+  s_b96252ac4a3d5a::t_59e467bd09a479 1-28
+tsc/testdata/baselines/reference/compiler/exportAssignmentWithImportStatementPrivacyError.errors.txt
+  s_b96252ac4a3d5a::t_6d876f836e8fc7 1-27
+tsc/testdata/baselines/reference/compiler/exportAssignmentWithImportStatementPrivacyError.js
+  s_b96252ac4a3d5a::t_627f513d6a3284 1-30
+tsc/testdata/baselines/reference/compiler/exportAssignmentWithImportStatementPrivacyError.symbols
+  s_b96252ac4a3d5a::t_6beec4103346d9 1-59
+tsc/testdata/baselines/reference/compiler/exportAssignmentWithImportStatementPrivacyError.types
+  s_b96252ac4a3d5a::t_aa2db29b1761c9 1-48
+tsc/testdata/baselines/reference/compiler/exportAssignmentWithPrivacyError.errors.txt
+  s_b96252ac4a3d5a::t_11a95ab61dd69d 1-23
+tsc/testdata/baselines/reference/compiler/exportAssignmentWithPrivacyError.js
+  s_b96252ac4a3d5a::t_671a622d9fda93 1-24
+tsc/testdata/baselines/reference/compiler/exportAssignmentWithPrivacyError.symbols
+  s_b96252ac4a3d5a::t_ff04beb8dff4c5 1-45
+tsc/testdata/baselines/reference/compiler/exportAssignmentWithPrivacyError.types
+  s_b96252ac4a3d5a::t_2bc9fb17cbbd22 1-35
+tsc/testdata/baselines/reference/compiler/exportEqualCallable.errors.txt
+  s_b96252ac4a3d5a::t_8ad69e4ef2f9b1 1-25
+tsc/testdata/baselines/reference/compiler/exportEqualCallable.js
+  s_b96252ac4a3d5a::t_5cffe60987d8f8 1-20
+tsc/testdata/baselines/reference/compiler/exportEqualCallable.symbols
+  s_b96252ac4a3d5a::t_1ca83ad4f84a2e 1-19
+tsc/testdata/baselines/reference/compiler/exportEqualCallable.types
+  s_b96252ac4a3d5a::t_e67e87df251ed3 1-20
+tsc/testdata/baselines/reference/compiler/exportEqualNamespaces.errors.txt
+  s_b96252ac4a3d5a::t_119b59332be0d4 1-19
+tsc/testdata/baselines/reference/compiler/exportEqualNamespaces.js
+  s_b96252ac4a3d5a::t_ca0e0217bad6e9 1-21
+tsc/testdata/baselines/reference/compiler/exportEqualNamespaces.symbols
+  s_b96252ac4a3d5a::t_0aedcaf89b3a10 1-33
+tsc/testdata/baselines/reference/compiler/exportEqualNamespaces.types
+  s_b96252ac4a3d5a::t_5cadea3dd38baf 1-27
+tsc/testdata/baselines/reference/compiler/exportImport.errors.txt
+  s_b96252ac4a3d5a::t_1e2f1653e596b0 1-24
+tsc/testdata/baselines/reference/compiler/exportImport.js
+  s_b96252ac4a3d5a::t_2892c476364c22 1-41
+tsc/testdata/baselines/reference/compiler/exportImport.symbols
+  s_b96252ac4a3d5a::t_67665ca40b2957 1-28
+tsc/testdata/baselines/reference/compiler/exportImport.types
+  s_b96252ac4a3d5a::t_90fc61c2ef4f70 1-29
+tsc/testdata/baselines/reference/compiler/exportImportCanSubstituteConstEnumForValue(target=es2015).js
+  s_b96252ac4a3d5a::t_dde9c5eb8592b2 1-130
+tsc/testdata/baselines/reference/compiler/exportImportCanSubstituteConstEnumForValue(target=es2015).symbols
+  s_b96252ac4a3d5a::t_b7435d1846678d 1-132
+tsc/testdata/baselines/reference/compiler/exportImportCanSubstituteConstEnumForValue(target=es2015).types
+  s_b96252ac4a3d5a::t_77ffe8be80908f 1-131
+tsc/testdata/baselines/reference/compiler/exportImportMultipleFiles.errors.txt
+  s_b96252ac4a3d5a::t_851c5651102585 1-22
+tsc/testdata/baselines/reference/compiler/exportImportMultipleFiles.js
+  s_b96252ac4a3d5a::t_419910e49eb435 1-20
+tsc/testdata/baselines/reference/compiler/exportImportMultipleFiles.symbols
+  s_b96252ac4a3d5a::t_14054322ad2d0c 1-18
+tsc/testdata/baselines/reference/compiler/exportImportMultipleFiles.types
+  s_b96252ac4a3d5a::t_00414fd6580f9d 1-28
+tsc/testdata/baselines/reference/compiler/exportImportNonInstantiatedModule2.errors.txt
+  s_b96252ac4a3d5a::t_69423fd43f53ff 1-24
+tsc/testdata/baselines/reference/compiler/exportImportNonInstantiatedModule2.js
+  s_b96252ac4a3d5a::t_6ecb7ffcda9f40 1-36
+tsc/testdata/baselines/reference/compiler/exportImportNonInstantiatedModule2.symbols
+  s_b96252ac4a3d5a::t_a642dcebf3743f 1-26
+tsc/testdata/baselines/reference/compiler/exportImportNonInstantiatedModule2.types
+  s_b96252ac4a3d5a::t_2cf6e0355095ea 1-26
+tsc/testdata/baselines/reference/compiler/exportStarForValues.errors.txt
+  s_b96252ac4a3d5a::t_2af4a661db1415 1-11
+tsc/testdata/baselines/reference/compiler/exportStarForValues.js
+  s_b96252ac4a3d5a::t_e786e190d486d6 1-14
+tsc/testdata/baselines/reference/compiler/exportStarForValues.symbols
+  s_b96252ac4a3d5a::t_016cd3a09dc458 1-12
+tsc/testdata/baselines/reference/compiler/exportStarForValues.types
+  s_b96252ac4a3d5a::t_5d6c16014bdfc5 1-11
+tsc/testdata/baselines/reference/compiler/exportStarForValues2.errors.txt
+  s_b96252ac4a3d5a::t_76854f71556303 1-18
+tsc/testdata/baselines/reference/compiler/exportStarForValues2.js
+  s_b96252ac4a3d5a::t_88c436e7bb3b87 1-21
+tsc/testdata/baselines/reference/compiler/exportStarForValues2.symbols
+  s_b96252ac4a3d5a::t_b69ad67e8dd8d5 1-17
+tsc/testdata/baselines/reference/compiler/exportStarForValues2.types
+  s_b96252ac4a3d5a::t_45265216488178 1-18
+tsc/testdata/baselines/reference/compiler/exportStarForValues3.errors.txt
+  s_b96252ac4a3d5a::t_fd13092e482da3 1-39
+tsc/testdata/baselines/reference/compiler/exportStarForValues3.js
+  s_b96252ac4a3d5a::t_98cf177cf526d6 1-40
+tsc/testdata/baselines/reference/compiler/exportStarForValues3.symbols
+  s_b96252ac4a3d5a::t_ee95708418b946 1-40
+tsc/testdata/baselines/reference/compiler/exportStarForValues3.types
+  s_b96252ac4a3d5a::t_be8e8f2e163354 1-40
+tsc/testdata/baselines/reference/compiler/exportStarForValues4.errors.txt
+  s_b96252ac4a3d5a::t_aef6f5188a3e7c 1-25
+tsc/testdata/baselines/reference/compiler/exportStarForValues4.js
+  s_b96252ac4a3d5a::t_080805f291c14b 1-26
+tsc/testdata/baselines/reference/compiler/exportStarForValues4.symbols
+  s_b96252ac4a3d5a::t_ca7465a00163c5 1-26
+tsc/testdata/baselines/reference/compiler/exportStarForValues4.types
+  s_b96252ac4a3d5a::t_9f78aee37da82f 1-25
+tsc/testdata/baselines/reference/compiler/exportStarForValues5.errors.txt
+  s_b96252ac4a3d5a::t_a4beaca8521c39 1-11
+tsc/testdata/baselines/reference/compiler/exportStarForValues5.js
+  s_b96252ac4a3d5a::t_4229ca57a3fa73 1-14
+tsc/testdata/baselines/reference/compiler/exportStarForValues5.symbols
+  s_b96252ac4a3d5a::t_d49276e6babdf7 1-12
+tsc/testdata/baselines/reference/compiler/exportStarForValues5.types
+  s_b96252ac4a3d5a::t_ba4fa9566b25c9 1-11
+tsc/testdata/baselines/reference/compiler/exportStarForValues7.errors.txt
+  s_b96252ac4a3d5a::t_530fde4c79d0f3 1-18
+tsc/testdata/baselines/reference/compiler/exportStarForValues7.js
+  s_b96252ac4a3d5a::t_4fe6e9ff5b488d 1-21
+tsc/testdata/baselines/reference/compiler/exportStarForValues7.symbols
+  s_b96252ac4a3d5a::t_601995dd3fd299 1-17
+tsc/testdata/baselines/reference/compiler/exportStarForValues7.types
+  s_b96252ac4a3d5a::t_18a25a108631d2 1-18
+tsc/testdata/baselines/reference/compiler/exportStarForValues8.errors.txt
+  s_b96252ac4a3d5a::t_7419ba6c0c9214 1-39
+tsc/testdata/baselines/reference/compiler/exportStarForValues8.js
+  s_b96252ac4a3d5a::t_fad752a1e2e8a6 1-40
+tsc/testdata/baselines/reference/compiler/exportStarForValues8.symbols
+  s_b96252ac4a3d5a::t_e9e878e8dd476d 1-40
+tsc/testdata/baselines/reference/compiler/exportStarForValues8.types
+  s_b96252ac4a3d5a::t_cf54ebcfff0031 1-40
+tsc/testdata/baselines/reference/compiler/exportStarForValues9.errors.txt
+  s_b96252ac4a3d5a::t_1c261e9f59969c 1-25
+tsc/testdata/baselines/reference/compiler/exportStarForValues9.js
+  s_b96252ac4a3d5a::t_e59d15267d4228 1-26
+tsc/testdata/baselines/reference/compiler/exportStarForValues9.symbols
+  s_b96252ac4a3d5a::t_f48ad1f14d2dfc 1-26
+tsc/testdata/baselines/reference/compiler/exportStarForValues9.types
+  s_b96252ac4a3d5a::t_27d6db1e10ad62 1-25
+tsc/testdata/baselines/reference/compiler/exportedInterfaceInaccessibleInCallbackInModule.js
+  s_b96252ac4a3d5a::t_6ecea10318747d 1-18
+tsc/testdata/baselines/reference/compiler/exportedInterfaceInaccessibleInCallbackInModule.symbols
+  s_b96252ac4a3d5a::t_9ba2194a5f8acb 1-44
+tsc/testdata/baselines/reference/compiler/exportedInterfaceInaccessibleInCallbackInModule.types
+  s_b96252ac4a3d5a::t_0673481b6d995c 1-30
+tsc/testdata/baselines/reference/compiler/exportedVariable1.js
+  s_b96252ac4a3d5a::t_a1ef016f81b6ca 1-10
+tsc/testdata/baselines/reference/compiler/exportedVariable1.symbols
+  s_b96252ac4a3d5a::t_c584d9e1b99516 1-15
+tsc/testdata/baselines/reference/compiler/exportedVariable1.types
+  s_b96252ac4a3d5a::t_e93b0ed5620a11 1-18
+tsc/testdata/baselines/reference/compiler/exportingContainingVisibleType.errors.txt
+  s_b96252ac4a3d5a::t_ca3ec9958399b3 1-16
+tsc/testdata/baselines/reference/compiler/exportingContainingVisibleType.js
+  s_b96252ac4a3d5a::t_07ddac9db6c616 1-22
+tsc/testdata/baselines/reference/compiler/exportingContainingVisibleType.symbols
+  s_b96252ac4a3d5a::t_e008e1394ba557 1-22
+tsc/testdata/baselines/reference/compiler/exportingContainingVisibleType.types
+  s_b96252ac4a3d5a::t_a4560eee61ac31 1-22
+tsc/testdata/baselines/reference/compiler/exportsInAmbientModules1.errors.txt
+  s_b96252ac4a3d5a::t_60bd481960bd93 1-12
+tsc/testdata/baselines/reference/compiler/exportsInAmbientModules1.js
+  s_b96252ac4a3d5a::t_23d8bda689e6bc 1-12
+tsc/testdata/baselines/reference/compiler/exportsInAmbientModules1.symbols
+  s_b96252ac4a3d5a::t_9c70eddc7cc8d8 1-13
+tsc/testdata/baselines/reference/compiler/exportsInAmbientModules1.types
+  s_b96252ac4a3d5a::t_96ac1ce4990c09 1-13
+tsc/testdata/baselines/reference/compiler/exportsInAmbientModules2.errors.txt
+  s_b96252ac4a3d5a::t_eb8c0ac6f9de8d 1-12
+tsc/testdata/baselines/reference/compiler/exportsInAmbientModules2.js
+  s_b96252ac4a3d5a::t_ff48be22e40d72 1-12
+tsc/testdata/baselines/reference/compiler/exportsInAmbientModules2.symbols
+  s_b96252ac4a3d5a::t_80826161111dea 1-12
+tsc/testdata/baselines/reference/compiler/exportsInAmbientModules2.types
+  s_b96252ac4a3d5a::t_3f1092fda3a59f 1-12
+tsc/testdata/baselines/reference/compiler/externalModuleAssignToVar.errors.txt
+  s_b96252ac4a3d5a::t_119a2f435dabfc 1-48
+tsc/testdata/baselines/reference/compiler/externalModuleAssignToVar.js
+  s_b96252ac4a3d5a::t_ce377cc5b1c6df 1-39
+tsc/testdata/baselines/reference/compiler/externalModuleAssignToVar.symbols
+  s_b96252ac4a3d5a::t_71cd994b06d015 1-47
+tsc/testdata/baselines/reference/compiler/externalModuleAssignToVar.types
+  s_b96252ac4a3d5a::t_eeff03bde30277 1-47
+tsc/testdata/baselines/reference/compiler/externalModuleReferenceOfImportDeclarationWithExportModifier.errors.txt
+  s_b96252ac4a3d5a::t_2bd7b1586559f3 1-15
+tsc/testdata/baselines/reference/compiler/externalModuleReferenceOfImportDeclarationWithExportModifier.js
+  s_b96252ac4a3d5a::t_aeb76662aff528 1-13
+tsc/testdata/baselines/reference/compiler/externalModuleReferenceOfImportDeclarationWithExportModifier.symbols
+  s_b96252ac4a3d5a::t_9bdf0a4c02794f 1-9
+tsc/testdata/baselines/reference/compiler/externalModuleReferenceOfImportDeclarationWithExportModifier.types
+  s_b96252ac4a3d5a::t_73e99af08a2b8c 1-12
+tsc/testdata/baselines/reference/compiler/genericClassesInModule2.js
+  s_b96252ac4a3d5a::t_c9d38e72f9ae8a 1-39
+tsc/testdata/baselines/reference/compiler/genericClassesInModule2.symbols
+  s_b96252ac4a3d5a::t_173ce38b495378 1-63
+tsc/testdata/baselines/reference/compiler/genericClassesInModule2.types
+  s_b96252ac4a3d5a::t_70bacacd68fc12 1-49
+tsc/testdata/baselines/reference/compiler/genericInterfaceFunctionTypeParameter.js
+  s_b96252ac4a3d5a::t_e8aa04dc7d3636 1-15
+tsc/testdata/baselines/reference/compiler/genericInterfaceFunctionTypeParameter.symbols
+  s_b96252ac4a3d5a::t_5e830f7cf891fc 1-22
+tsc/testdata/baselines/reference/compiler/genericInterfaceFunctionTypeParameter.types
+  s_b96252ac4a3d5a::t_01f27a408942dd 1-17
+tsc/testdata/baselines/reference/compiler/genericRecursiveImplicitConstructorErrors1.errors.txt
+  s_b96252ac4a3d5a::t_b8437d9be038a5 1-19
+tsc/testdata/baselines/reference/compiler/genericRecursiveImplicitConstructorErrors1.js
+  s_b96252ac4a3d5a::t_e2b21d8de8adfc 1-19
+tsc/testdata/baselines/reference/compiler/genericRecursiveImplicitConstructorErrors1.symbols
+  s_b96252ac4a3d5a::t_da48f39b108f1b 1-57
+tsc/testdata/baselines/reference/compiler/genericRecursiveImplicitConstructorErrors1.types
+  s_b96252ac4a3d5a::t_df372638be166a 1-33
+tsc/testdata/baselines/reference/compiler/genericTypeWithMultipleBases2.errors.txt
+  s_b96252ac4a3d5a::t_f353a2555d27fb 1-30
+tsc/testdata/baselines/reference/compiler/genericTypeWithMultipleBases2.js
+  s_b96252ac4a3d5a::t_0c24081768091a 1-28
+tsc/testdata/baselines/reference/compiler/genericTypeWithMultipleBases2.symbols
+  s_b96252ac4a3d5a::t_ce512a14023200 1-48
+tsc/testdata/baselines/reference/compiler/genericTypeWithMultipleBases2.types
+  s_b96252ac4a3d5a::t_2c1d36bc7915d4 1-39
+tsc/testdata/baselines/reference/compiler/genericWithIndexerOfTypeParameterType2.errors.txt
+  s_b96252ac4a3d5a::t_5880210c953748 1-23
+tsc/testdata/baselines/reference/compiler/genericWithIndexerOfTypeParameterType2.js
+  s_b96252ac4a3d5a::t_0850bdf08d90f3 1-28
+tsc/testdata/baselines/reference/compiler/genericWithIndexerOfTypeParameterType2.symbols
+  s_b96252ac4a3d5a::t_c23ea1af85dc0a 1-34
+tsc/testdata/baselines/reference/compiler/genericWithIndexerOfTypeParameterType2.types
+  s_b96252ac4a3d5a::t_48723a8f1f0cfb 1-30
+tsc/testdata/baselines/reference/compiler/importDeclWithExportModifier.errors.txt
+  s_b96252ac4a3d5a::t_685a5689dfded8 1-16
+tsc/testdata/baselines/reference/compiler/importDeclWithExportModifier.js
+  s_b96252ac4a3d5a::t_f693039974c7dc 1-14
+tsc/testdata/baselines/reference/compiler/importDeclWithExportModifier.symbols
+  s_b96252ac4a3d5a::t_5edb8450e7d1ce 1-18
+tsc/testdata/baselines/reference/compiler/importDeclWithExportModifier.types
+  s_b96252ac4a3d5a::t_ae839c8c64b02b 1-15
+tsc/testdata/baselines/reference/compiler/importShadowsGlobalName.errors.txt
+  s_b96252ac4a3d5a::t_47a1ba2a6b48d7 1-19
+tsc/testdata/baselines/reference/compiler/importShadowsGlobalName.js
+  s_b96252ac4a3d5a::t_096c98b0412cee 1-15
+tsc/testdata/baselines/reference/compiler/importShadowsGlobalName.symbols
+  s_b96252ac4a3d5a::t_6255a38b5980f8 1-13
+tsc/testdata/baselines/reference/compiler/importShadowsGlobalName.types
+  s_b96252ac4a3d5a::t_2cc885fa7f018f 1-13
+tsc/testdata/baselines/reference/compiler/import_reference-exported-alias.errors.txt
+  s_b96252ac4a3d5a::t_517b6b751246ab 1-28
+tsc/testdata/baselines/reference/compiler/import_reference-exported-alias.js
+  s_b96252ac4a3d5a::t_445ebd33d31484 1-28
+tsc/testdata/baselines/reference/compiler/import_reference-exported-alias.symbols
+  s_b96252ac4a3d5a::t_d63f78deaff671 1-20
+tsc/testdata/baselines/reference/compiler/import_reference-exported-alias.types
+  s_b96252ac4a3d5a::t_b7facb4dd74f4c 1-24
+tsc/testdata/baselines/reference/compiler/import_reference-to-type-alias.errors.txt
+  s_b96252ac4a3d5a::t_3d513d00420e0e 1-24
+tsc/testdata/baselines/reference/compiler/import_reference-to-type-alias.js
+  s_b96252ac4a3d5a::t_cb222d79f09b4f 1-23
+tsc/testdata/baselines/reference/compiler/import_reference-to-type-alias.symbols
+  s_b96252ac4a3d5a::t_ec0afa02a57f2d 1-16
+tsc/testdata/baselines/reference/compiler/import_reference-to-type-alias.types
+  s_b96252ac4a3d5a::t_81b9758941053a 1-22
+tsc/testdata/baselines/reference/compiler/import_unneeded-require-when-referenecing-aliased-type-throug-array.errors.txt
+  s_b96252ac4a3d5a::t_ea40e00234eecc 1-22
+tsc/testdata/baselines/reference/compiler/import_unneeded-require-when-referenecing-aliased-type-throug-array.js
+  s_b96252ac4a3d5a::t_b666055d4795c1 1-23
+tsc/testdata/baselines/reference/compiler/import_unneeded-require-when-referenecing-aliased-type-throug-array.symbols
+  s_b96252ac4a3d5a::t_977488f9636962 1-31
+tsc/testdata/baselines/reference/compiler/import_unneeded-require-when-referenecing-aliased-type-throug-array.types
+  s_b96252ac4a3d5a::t_cf761697c93165 1-30
+tsc/testdata/baselines/reference/compiler/import_var-referencing-an-imported-module-alias.errors.txt
+  s_b96252ac4a3d5a::t_7a31d3f31e940d 1-16
+tsc/testdata/baselines/reference/compiler/import_var-referencing-an-imported-module-alias.js
+  s_b96252ac4a3d5a::t_9fe2d893afb456 1-15
+tsc/testdata/baselines/reference/compiler/import_var-referencing-an-imported-module-alias.symbols
+  s_b96252ac4a3d5a::t_6d9337def13f7a 1-14
+tsc/testdata/baselines/reference/compiler/import_var-referencing-an-imported-module-alias.types
+  s_b96252ac4a3d5a::t_bb5b21f3e389c4 1-17
+tsc/testdata/baselines/reference/compiler/importedAliasesInTypePositions.errors.txt
+  s_b96252ac4a3d5a::t_9bd058e9c8d9d5 1-25
+tsc/testdata/baselines/reference/compiler/importedAliasesInTypePositions.js
+  s_b96252ac4a3d5a::t_3dbb2356300ae5 1-29
+tsc/testdata/baselines/reference/compiler/importedAliasesInTypePositions.symbols
+  s_b96252ac4a3d5a::t_1a29bdf9dcd645 1-26
+tsc/testdata/baselines/reference/compiler/importedAliasesInTypePositions.types
+  s_b96252ac4a3d5a::t_37f2ff6e91a304 1-25
+tsc/testdata/baselines/reference/compiler/importedModuleClassNameClash.js
+  s_b96252ac4a3d5a::t_d71bbf6aaaac10 1-14
+tsc/testdata/baselines/reference/compiler/importedModuleClassNameClash.symbols
+  s_b96252ac4a3d5a::t_bfdabaab507a9d 1-13
+tsc/testdata/baselines/reference/compiler/importedModuleClassNameClash.types
+  s_b96252ac4a3d5a::t_0c2e79d027f51b 1-12
+tsc/testdata/baselines/reference/compiler/importsInAmbientModules1.errors.txt
+  s_b96252ac4a3d5a::t_99583f1afcf62f 1-12
+tsc/testdata/baselines/reference/compiler/importsInAmbientModules1.js
+  s_b96252ac4a3d5a::t_3365b11ba3c361 1-12
+tsc/testdata/baselines/reference/compiler/importsInAmbientModules1.symbols
+  s_b96252ac4a3d5a::t_ec1a1c6b288376 1-13
+tsc/testdata/baselines/reference/compiler/importsInAmbientModules1.types
+  s_b96252ac4a3d5a::t_e066a64ba9fc13 1-13
+tsc/testdata/baselines/reference/compiler/importsInAmbientModules2.errors.txt
+  s_b96252ac4a3d5a::t_a0f01116d82000 1-12
+tsc/testdata/baselines/reference/compiler/importsInAmbientModules2.js
+  s_b96252ac4a3d5a::t_c2c3df4720ee98 1-12
+tsc/testdata/baselines/reference/compiler/importsInAmbientModules2.symbols
+  s_b96252ac4a3d5a::t_331c7a7b0913bd 1-13
+tsc/testdata/baselines/reference/compiler/importsInAmbientModules2.types
+  s_b96252ac4a3d5a::t_09928d79520750 1-13
+tsc/testdata/baselines/reference/compiler/importsInAmbientModules3.errors.txt
+  s_b96252ac4a3d5a::t_11677f6f3e2432 1-12
+tsc/testdata/baselines/reference/compiler/importsInAmbientModules3.js
+  s_b96252ac4a3d5a::t_22f36559098fc5 1-12
+tsc/testdata/baselines/reference/compiler/importsInAmbientModules3.symbols
+  s_b96252ac4a3d5a::t_916da1e82e4dd8 1-9
+tsc/testdata/baselines/reference/compiler/importsInAmbientModules3.types
+  s_b96252ac4a3d5a::t_5eae07abc991b3 1-9
+tsc/testdata/baselines/reference/compiler/instanceOfInExternalModules.errors.txt
+  s_b96252ac4a3d5a::t_d8314083cbcd16 1-21
+tsc/testdata/baselines/reference/compiler/instanceOfInExternalModules.js
+  s_b96252ac4a3d5a::t_8965dabf32ce5e 1-21
+tsc/testdata/baselines/reference/compiler/instanceOfInExternalModules.symbols
+  s_b96252ac4a3d5a::t_70a6855751864b 1-21
+tsc/testdata/baselines/reference/compiler/instanceOfInExternalModules.types
+  s_b96252ac4a3d5a::t_d2e31213f7116a 1-24
+tsc/testdata/baselines/reference/compiler/interfaceDeclaration5.js
+  s_b96252ac4a3d5a::t_4f1b125987e654 1-10
+tsc/testdata/baselines/reference/compiler/interfaceDeclaration5.symbols
+  s_b96252ac4a3d5a::t_990583b3f70b5e 1-10
+tsc/testdata/baselines/reference/compiler/interfaceDeclaration5.types
+  s_b96252ac4a3d5a::t_b4bd730ae25c37 1-9
+tsc/testdata/baselines/reference/compiler/internalAliasEnumInsideTopLevelModuleWithExport.js
+  s_b96252ac4a3d5a::t_de4689825332f9 1-39
+tsc/testdata/baselines/reference/compiler/internalAliasEnumInsideTopLevelModuleWithExport.symbols
+  s_b96252ac4a3d5a::t_d46d5e5a669308 1-32
+tsc/testdata/baselines/reference/compiler/internalAliasEnumInsideTopLevelModuleWithExport.types
+  s_b96252ac4a3d5a::t_54b32d803acf12 1-31
+tsc/testdata/baselines/reference/compiler/internalAliasEnumInsideTopLevelModuleWithoutExport.js
+  s_b96252ac4a3d5a::t_87c0db09005ed8 1-39
+tsc/testdata/baselines/reference/compiler/internalAliasEnumInsideTopLevelModuleWithoutExport.symbols
+  s_b96252ac4a3d5a::t_862a4524e9a2a9 1-32
+tsc/testdata/baselines/reference/compiler/internalAliasEnumInsideTopLevelModuleWithoutExport.types
+  s_b96252ac4a3d5a::t_bb3f345e094208 1-31
+tsc/testdata/baselines/reference/compiler/internalAliasFunctionInsideTopLevelModuleWithExport.js
+  s_b96252ac4a3d5a::t_2663f578165391 1-34
+tsc/testdata/baselines/reference/compiler/internalAliasFunctionInsideTopLevelModuleWithExport.symbols
+  s_b96252ac4a3d5a::t_9796e4f09aecba 1-28
+tsc/testdata/baselines/reference/compiler/internalAliasFunctionInsideTopLevelModuleWithExport.types
+  s_b96252ac4a3d5a::t_c9791f61ec21cc 1-30
+tsc/testdata/baselines/reference/compiler/internalAliasInitializedModuleInsideLocalModuleWithExport.js
+  s_b96252ac4a3d5a::t_d0cd87234015ab 1-43
+tsc/testdata/baselines/reference/compiler/internalAliasInitializedModuleInsideLocalModuleWithExport.symbols
+  s_b96252ac4a3d5a::t_2b137287e6e1e5 1-31
+tsc/testdata/baselines/reference/compiler/internalAliasInitializedModuleInsideLocalModuleWithExport.types
+  s_b96252ac4a3d5a::t_e87d3e257af1e4 1-31
+tsc/testdata/baselines/reference/compiler/internalAliasInitializedModuleInsideTopLevelModuleWithoutExport.js
+  s_b96252ac4a3d5a::t_c187d3834c5923 1-36
+tsc/testdata/baselines/reference/compiler/internalAliasInitializedModuleInsideTopLevelModuleWithoutExport.symbols
+  s_b96252ac4a3d5a::t_852abd6d96303f 1-28
+tsc/testdata/baselines/reference/compiler/internalAliasInitializedModuleInsideTopLevelModuleWithoutExport.types
+  s_b96252ac4a3d5a::t_2fbd048a718007 1-28
+tsc/testdata/baselines/reference/compiler/internalAliasInterfaceInsideLocalModuleWithExport.js
+  s_b96252ac4a3d5a::t_cd434fe41ed992 1-29
+tsc/testdata/baselines/reference/compiler/internalAliasInterfaceInsideLocalModuleWithExport.symbols
+  s_b96252ac4a3d5a::t_841f639398b037 1-24
+tsc/testdata/baselines/reference/compiler/internalAliasInterfaceInsideLocalModuleWithExport.types
+  s_b96252ac4a3d5a::t_3f764daa90c89f 1-20
+tsc/testdata/baselines/reference/compiler/internalAliasInterfaceInsideLocalModuleWithoutExport.js
+  s_b96252ac4a3d5a::t_b5a6b30a6aea88 1-29
+tsc/testdata/baselines/reference/compiler/internalAliasInterfaceInsideLocalModuleWithoutExport.symbols
+  s_b96252ac4a3d5a::t_9eb4c189a00d47 1-24
+tsc/testdata/baselines/reference/compiler/internalAliasInterfaceInsideLocalModuleWithoutExport.types
+  s_b96252ac4a3d5a::t_0794b6a3b1f5ef 1-20
+tsc/testdata/baselines/reference/compiler/internalAliasInterfaceInsideTopLevelModuleWithoutExport.js
+  s_b96252ac4a3d5a::t_5f6fc91dbd6f9d 1-23
+tsc/testdata/baselines/reference/compiler/internalAliasInterfaceInsideTopLevelModuleWithoutExport.symbols
+  s_b96252ac4a3d5a::t_e61ea013be734b 1-20
+tsc/testdata/baselines/reference/compiler/internalAliasInterfaceInsideTopLevelModuleWithoutExport.types
+  s_b96252ac4a3d5a::t_df79017210f689 1-16
+tsc/testdata/baselines/reference/compiler/internalAliasUninitializedModuleInsideTopLevelModuleWithExport.js
+  s_b96252ac4a3d5a::t_d4f8395ab5f8fb 1-31
+tsc/testdata/baselines/reference/compiler/internalAliasUninitializedModuleInsideTopLevelModuleWithExport.symbols
+  s_b96252ac4a3d5a::t_796dcc24b29d64 1-33
+tsc/testdata/baselines/reference/compiler/internalAliasUninitializedModuleInsideTopLevelModuleWithExport.types
+  s_b96252ac4a3d5a::t_7f48c2e33fd71c 1-27
+tsc/testdata/baselines/reference/compiler/internalAliasVarInsideLocalModuleWithExport.js
+  s_b96252ac4a3d5a::t_93fb0e404e6296 1-33
+tsc/testdata/baselines/reference/compiler/internalAliasVarInsideLocalModuleWithExport.symbols
+  s_b96252ac4a3d5a::t_4840893540829a 1-23
+tsc/testdata/baselines/reference/compiler/internalAliasVarInsideLocalModuleWithExport.types
+  s_b96252ac4a3d5a::t_fd3752d8a5a9f8 1-24
+tsc/testdata/baselines/reference/compiler/internalAliasVarInsideLocalModuleWithoutExport.js
+  s_b96252ac4a3d5a::t_f27112b9d6ff27 1-32
+tsc/testdata/baselines/reference/compiler/internalAliasVarInsideLocalModuleWithoutExport.symbols
+  s_b96252ac4a3d5a::t_843467cf253576 1-23
+tsc/testdata/baselines/reference/compiler/internalAliasVarInsideLocalModuleWithoutExport.types
+  s_b96252ac4a3d5a::t_25364e522a2b2d 1-24
+tsc/testdata/baselines/reference/compiler/internalAliasVarInsideTopLevelModuleWithExport.js
+  s_b96252ac4a3d5a::t_3361e45a18fb6d 1-27
+tsc/testdata/baselines/reference/compiler/internalAliasVarInsideTopLevelModuleWithExport.symbols
+  s_b96252ac4a3d5a::t_ee663f7ed4aa1e 1-20
+tsc/testdata/baselines/reference/compiler/internalAliasVarInsideTopLevelModuleWithExport.types
+  s_b96252ac4a3d5a::t_899b7eed471239 1-21
+tsc/testdata/baselines/reference/compiler/jsFileCompilationRestParamJsDocFunction.errors.txt
+  s_b96252ac4a3d5a::t_d584837204d4e7 1-30
+tsc/testdata/baselines/reference/compiler/jsFileCompilationRestParamJsDocFunction.symbols
+  s_b96252ac4a3d5a::t_0bfb98f774a09d 1-69
+tsc/testdata/baselines/reference/compiler/jsFileCompilationRestParamJsDocFunction.types
+  s_b96252ac4a3d5a::t_b1c4f3a6384e68 1-90
+tsc/testdata/baselines/reference/compiler/keepImportsInDts1.errors.txt
+  s_b96252ac4a3d5a::t_6770427e56d84e 1-9
+tsc/testdata/baselines/reference/compiler/keepImportsInDts1.js
+  s_b96252ac4a3d5a::t_bb99c8c7ca039a 1-13
+tsc/testdata/baselines/reference/compiler/keepImportsInDts1.symbols
+  s_b96252ac4a3d5a::t_f92520568fe013 1-8
+tsc/testdata/baselines/reference/compiler/keepImportsInDts1.types
+  s_b96252ac4a3d5a::t_8b4b0faf827e9d 1-8
+tsc/testdata/baselines/reference/compiler/keepImportsInDts2.js
+  s_b96252ac4a3d5a::t_a7041d34b9e895 1-17
+tsc/testdata/baselines/reference/compiler/keepImportsInDts2.symbols
+  s_b96252ac4a3d5a::t_e57a43a3cd636c 1-8
+tsc/testdata/baselines/reference/compiler/keepImportsInDts2.types
+  s_b96252ac4a3d5a::t_d8a74ed1a7e51f 1-8
+tsc/testdata/baselines/reference/compiler/memberAccessMustUseModuleInstances.errors.txt
+  s_b96252ac4a3d5a::t_835d41ceae493f 1-24
+tsc/testdata/baselines/reference/compiler/memberAccessMustUseModuleInstances.js
+  s_b96252ac4a3d5a::t_462388b6741fb2 1-25
+tsc/testdata/baselines/reference/compiler/memberAccessMustUseModuleInstances.symbols
+  s_b96252ac4a3d5a::t_745bbc036e5ca5 1-23
+tsc/testdata/baselines/reference/compiler/memberAccessMustUseModuleInstances.types
+  s_b96252ac4a3d5a::t_9493c8edf2bdef 1-28
+tsc/testdata/baselines/reference/compiler/mergedDeclarations6.js
+  s_b96252ac4a3d5a::t_6af6a257f082b2 1-36
+tsc/testdata/baselines/reference/compiler/mergedDeclarations6.symbols
+  s_b96252ac4a3d5a::t_6bddadf0f74875 1-41
+tsc/testdata/baselines/reference/compiler/mergedDeclarations6.types
+  s_b96252ac4a3d5a::t_69d5f5cc077de1 1-41
+tsc/testdata/baselines/reference/compiler/moduleAliasAsFunctionArgument.errors.txt
+  s_b96252ac4a3d5a::t_fe2f0eac0da78a 1-21
+tsc/testdata/baselines/reference/compiler/moduleAliasAsFunctionArgument.js
+  s_b96252ac4a3d5a::t_90c28b48b6cfeb 1-24
+tsc/testdata/baselines/reference/compiler/moduleAliasAsFunctionArgument.symbols
+  s_b96252ac4a3d5a::t_3f536402c2e5b1 1-24
+tsc/testdata/baselines/reference/compiler/moduleAliasAsFunctionArgument.types
+  s_b96252ac4a3d5a::t_3ab2ec64a610ca 1-27
+tsc/testdata/baselines/reference/compiler/moduleAugmentationCollidingNamesInAugmentation1.js
+  s_b96252ac4a3d5a::t_1986142bb1f248 1-69
+tsc/testdata/baselines/reference/compiler/moduleAugmentationCollidingNamesInAugmentation1.symbols
+  s_b96252ac4a3d5a::t_4caeea0f9316ab 1-62
+tsc/testdata/baselines/reference/compiler/moduleAugmentationCollidingNamesInAugmentation1.types
+  s_b96252ac4a3d5a::t_b1847c3b320e7b 1-67
+tsc/testdata/baselines/reference/compiler/moduleAugmentationsImports1.errors.txt
+  s_b96252ac4a3d5a::t_afe3b1cd0ef86a 1-65
+tsc/testdata/baselines/reference/compiler/moduleAugmentationsImports1.js
+  s_b96252ac4a3d5a::t_2ac9f309f1d856 1-84
+tsc/testdata/baselines/reference/compiler/moduleAugmentationsImports1.symbols
+  s_b96252ac4a3d5a::t_c9890c073c813a 1-102
+tsc/testdata/baselines/reference/compiler/moduleAugmentationsImports1.types
+  s_b96252ac4a3d5a::t_22813428452e3c 1-103
+tsc/testdata/baselines/reference/compiler/moduleAugmentationsImports2.errors.txt
+  s_b96252ac4a3d5a::t_bc16847572b1d9 1-73
+tsc/testdata/baselines/reference/compiler/moduleAugmentationsImports2.js
+  s_b96252ac4a3d5a::t_4eddbad9fa4076 1-94
+tsc/testdata/baselines/reference/compiler/moduleAugmentationsImports2.symbols
+  s_b96252ac4a3d5a::t_cd00eeac96a1db 1-107
+tsc/testdata/baselines/reference/compiler/moduleAugmentationsImports2.types
+  s_b96252ac4a3d5a::t_591380e6bc4370 1-108
+tsc/testdata/baselines/reference/compiler/moduleAugmentationsImports3.errors.txt
+  s_b96252ac4a3d5a::t_e81afcbe87397a 1-68
+tsc/testdata/baselines/reference/compiler/moduleAugmentationsImports3.js
+  s_b96252ac4a3d5a::t_6c8ab7e5236cb9 1-65
+tsc/testdata/baselines/reference/compiler/moduleAugmentationsImports3.symbols
+  s_b96252ac4a3d5a::t_c43eafd78219b8 1-49
+tsc/testdata/baselines/reference/compiler/moduleAugmentationsImports3.types
+  s_b96252ac4a3d5a::t_286f8f1b34866c 1-61
+tsc/testdata/baselines/reference/compiler/moduleAugmentationsImports4.errors.txt
+  s_b96252ac4a3d5a::t_30fb871b10a15a 1-69
+tsc/testdata/baselines/reference/compiler/moduleAugmentationsImports4.js
+  s_b96252ac4a3d5a::t_7250580b31330d 1-66
+tsc/testdata/baselines/reference/compiler/moduleAugmentationsImports4.symbols
+  s_b96252ac4a3d5a::t_d0eb6a1bfb6058 1-83
+tsc/testdata/baselines/reference/compiler/moduleAugmentationsImports4.types
+  s_b96252ac4a3d5a::t_56581fc1a4f814 1-92
+tsc/testdata/baselines/reference/compiler/moduleImportedForTypeArgumentPosition.errors.txt
+  s_b96252ac4a3d5a::t_4ca57d5edb1e8c 1-18
+tsc/testdata/baselines/reference/compiler/moduleImportedForTypeArgumentPosition.js
+  s_b96252ac4a3d5a::t_d8b0d840a9c9a9 1-19
+tsc/testdata/baselines/reference/compiler/moduleImportedForTypeArgumentPosition.symbols
+  s_b96252ac4a3d5a::t_718c22c8172ff8 1-18
+tsc/testdata/baselines/reference/compiler/moduleImportedForTypeArgumentPosition.types
+  s_b96252ac4a3d5a::t_4c87b185403737 1-16
+tsc/testdata/baselines/reference/compiler/moduleMergeConstructor.js
+  s_b96252ac4a3d5a::t_e7872d43a101e2 1-35
+tsc/testdata/baselines/reference/compiler/moduleMergeConstructor.symbols
+  s_b96252ac4a3d5a::t_490966c497ade3 1-50
+tsc/testdata/baselines/reference/compiler/moduleMergeConstructor.types
+  s_b96252ac4a3d5a::t_3921fdcda53097 1-49
+tsc/testdata/baselines/reference/compiler/objectIndexer.js
+  s_b96252ac4a3d5a::t_7ac31f763bab8e 1-26
+tsc/testdata/baselines/reference/compiler/objectIndexer.symbols
+  s_b96252ac4a3d5a::t_6c353ce3bdc4a5 1-33
+tsc/testdata/baselines/reference/compiler/objectIndexer.types
+  s_b96252ac4a3d5a::t_265cc15d7b4abc 1-29
+tsc/testdata/baselines/reference/compiler/pathMappingBasedModuleResolution6_classic.js
+  s_b96252ac4a3d5a::t_78758945a2788f 1-18
+tsc/testdata/baselines/reference/compiler/pathMappingBasedModuleResolution6_classic.symbols
+  s_b96252ac4a3d5a::t_125d82180562b1 1-24
+tsc/testdata/baselines/reference/compiler/pathMappingBasedModuleResolution6_classic.trace.json
+  s_b96252ac4a3d5a::t_279de02c63ec61 1-37
+tsc/testdata/baselines/reference/compiler/pathMappingBasedModuleResolution6_classic.types
+  s_b96252ac4a3d5a::t_ac1136fb83b5dc 1-26
+tsc/testdata/baselines/reference/compiler/privacyCheckAnonymousFunctionParameter2.errors.txt
+  s_b96252ac4a3d5a::t_4afb560c8b37bc 1-20
+tsc/testdata/baselines/reference/compiler/privacyCheckAnonymousFunctionParameter2.js
+  s_b96252ac4a3d5a::t_4880b0ee34d9ca 1-36
+tsc/testdata/baselines/reference/compiler/privacyCheckAnonymousFunctionParameter2.symbols
+  s_b96252ac4a3d5a::t_3697d397bb25f3 1-38
+tsc/testdata/baselines/reference/compiler/privacyCheckAnonymousFunctionParameter2.types
+  s_b96252ac4a3d5a::t_ffe9bcca7a0af2 1-34
+tsc/testdata/baselines/reference/compiler/privacyCheckCallbackOfInterfaceMethodWithTypeParameter.js
+  s_b96252ac4a3d5a::t_1e4c60dde9613a 1-21
+tsc/testdata/baselines/reference/compiler/privacyCheckCallbackOfInterfaceMethodWithTypeParameter.symbols
+  s_b96252ac4a3d5a::t_05235b496dfb19 1-21
+tsc/testdata/baselines/reference/compiler/privacyCheckCallbackOfInterfaceMethodWithTypeParameter.types
+  s_b96252ac4a3d5a::t_c8e9d8938baf1e 1-13
+tsc/testdata/baselines/reference/compiler/privacyCheckExportAssignmentOnExportedGenericInterface2.errors.txt
+  s_b96252ac4a3d5a::t_2779951474330e 1-22
+tsc/testdata/baselines/reference/compiler/privacyCheckExportAssignmentOnExportedGenericInterface2.js
+  s_b96252ac4a3d5a::t_5f3ef298683fd5 1-35
+tsc/testdata/baselines/reference/compiler/privacyCheckExportAssignmentOnExportedGenericInterface2.symbols
+  s_b96252ac4a3d5a::t_491089440491f3 1-30
+tsc/testdata/baselines/reference/compiler/privacyCheckExportAssignmentOnExportedGenericInterface2.types
+  s_b96252ac4a3d5a::t_ce230b71e2df97 1-25
+tsc/testdata/baselines/reference/compiler/privacyCheckOnTypeParameterReferenceInConstructorParameter.js
+  s_b96252ac4a3d5a::t_cdb2d3b6289f86 1-32
+tsc/testdata/baselines/reference/compiler/privacyCheckOnTypeParameterReferenceInConstructorParameter.symbols
+  s_b96252ac4a3d5a::t_409eecd59e0e2b 1-29
+tsc/testdata/baselines/reference/compiler/privacyCheckOnTypeParameterReferenceInConstructorParameter.types
+  s_b96252ac4a3d5a::t_eb45eb813ba46e 1-25
+tsc/testdata/baselines/reference/compiler/privacyGetter(target=es2015).js
+  s_b96252ac4a3d5a::t_ef46ef8ef42574 1-372
+tsc/testdata/baselines/reference/compiler/privacyGetter(target=es2015).symbols
+  s_b96252ac4a3d5a::t_9d92ee280b6532 1-388
+tsc/testdata/baselines/reference/compiler/privacyGetter(target=es2015).types
+  s_b96252ac4a3d5a::t_9e2e2c6a83eb59 1-382
+tsc/testdata/baselines/reference/compiler/privacyGloFunc.js
+  s_b96252ac4a3d5a::t_47dc9d12c7bc7d 1-939
+tsc/testdata/baselines/reference/compiler/privacyGloFunc.symbols
+  s_b96252ac4a3d5a::t_5b1bdd8c6b382c 1-1011
+tsc/testdata/baselines/reference/compiler/privacyGloFunc.types
+  s_b96252ac4a3d5a::t_4bbbaddf06cf7f 1-987
+tsc/testdata/baselines/reference/compiler/privacyLocalInternalReferenceImportWithoutExport.js
+  s_b96252ac4a3d5a::t_1918e4f34548fb 1-355
+tsc/testdata/baselines/reference/compiler/privacyLocalInternalReferenceImportWithoutExport.symbols
+  s_b96252ac4a3d5a::t_592cf750290bdd 1-512
+tsc/testdata/baselines/reference/compiler/privacyLocalInternalReferenceImportWithoutExport.types
+  s_b96252ac4a3d5a::t_e4873c4707b13b 1-516
+tsc/testdata/baselines/reference/compiler/privacyTopLevelInternalReferenceImportWithExport.js
+  s_b96252ac4a3d5a::t_7a77def1c4098f 1-264
+tsc/testdata/baselines/reference/compiler/privacyTopLevelInternalReferenceImportWithExport.symbols
+  s_b96252ac4a3d5a::t_b1eece0606fb37 1-299
+tsc/testdata/baselines/reference/compiler/privacyTopLevelInternalReferenceImportWithExport.types
+  s_b96252ac4a3d5a::t_4ffb1ddf7239cd 1-299
+tsc/testdata/baselines/reference/compiler/privacyTopLevelInternalReferenceImportWithoutExport.js
+  s_b96252ac4a3d5a::t_baaba2bf64289a 1-260
+tsc/testdata/baselines/reference/compiler/privacyTopLevelInternalReferenceImportWithoutExport.symbols
+  s_b96252ac4a3d5a::t_3125c2b4b31080 1-299
+tsc/testdata/baselines/reference/compiler/privacyTopLevelInternalReferenceImportWithoutExport.types
+  s_b96252ac4a3d5a::t_a5e9a31d1d1e1a 1-299
+tsc/testdata/baselines/reference/compiler/privatePropertyUsingObjectType.errors.txt
+  s_b96252ac4a3d5a::t_bb1d67be7eb5cd 1-24
+tsc/testdata/baselines/reference/compiler/privatePropertyUsingObjectType.js
+  s_b96252ac4a3d5a::t_3898b8e07746ac 1-16
+tsc/testdata/baselines/reference/compiler/privatePropertyUsingObjectType.symbols
+  s_b96252ac4a3d5a::t_d40cd261b3a54a 1-30
+tsc/testdata/baselines/reference/compiler/privatePropertyUsingObjectType.types
+  s_b96252ac4a3d5a::t_b6046e1d71256c 1-25
+tsc/testdata/baselines/reference/compiler/relativeNamesInClassicResolution.errors.txt
+  s_b96252ac4a3d5a::t_546a33001ce222 1-10
+tsc/testdata/baselines/reference/compiler/relativeNamesInClassicResolution.js
+  s_b96252ac4a3d5a::t_2a2fd291588a66 1-12
+tsc/testdata/baselines/reference/compiler/relativeNamesInClassicResolution.symbols
+  s_b96252ac4a3d5a::t_288865298e73c5 1-10
+tsc/testdata/baselines/reference/compiler/relativeNamesInClassicResolution.types
+  s_b96252ac4a3d5a::t_2bf83ef6023e2f 1-11
+tsc/testdata/baselines/reference/compiler/requireEmitSemicolon.errors.txt
+  s_b96252ac4a3d5a::t_62c4e9fb84cc3b 1-26
+tsc/testdata/baselines/reference/compiler/requireEmitSemicolon.js
+  s_b96252ac4a3d5a::t_73268549eb1b47 1-39
+tsc/testdata/baselines/reference/compiler/requireEmitSemicolon.symbols
+  s_b96252ac4a3d5a::t_9e6914e2fb9413 1-37
+tsc/testdata/baselines/reference/compiler/requireEmitSemicolon.types
+  s_b96252ac4a3d5a::t_4e8c817af7f794 1-42
+tsc/testdata/baselines/reference/compiler/sourceMapValidationExportAssignment.errors.txt
+  s_b96252ac4a3d5a::t_b9106a9f209ac6 1-10
+tsc/testdata/baselines/reference/compiler/sourceMapValidationExportAssignment.js
+  s_b96252ac4a3d5a::t_e48f9d555b690d 1-13
+tsc/testdata/baselines/reference/compiler/sourceMapValidationExportAssignment.js.map
+  s_b96252ac4a3d5a::t_cdeea4edcb25b3 1-3
+tsc/testdata/baselines/reference/compiler/sourceMapValidationExportAssignment.sourcemap.txt
+  s_b96252ac4a3d5a::t_599363c052f5e9 1-31
+tsc/testdata/baselines/reference/compiler/sourceMapValidationExportAssignment.symbols
+  s_b96252ac4a3d5a::t_c089333f298d34 1-12
+tsc/testdata/baselines/reference/compiler/sourceMapValidationExportAssignment.types
+  s_b96252ac4a3d5a::t_0b09acfc2c9ab9 1-12
+tsc/testdata/baselines/reference/compiler/topLevelExports.js
+  s_b96252ac4a3d5a::t_22f9ced70fbca3 1-13
+tsc/testdata/baselines/reference/compiler/topLevelExports.symbols
+  s_b96252ac4a3d5a::t_ba668064a08342 1-17
+tsc/testdata/baselines/reference/compiler/topLevelExports.types
+  s_b96252ac4a3d5a::t_ffda60492c1e0e 1-21
+tsc/testdata/baselines/reference/compiler/typeAliasDeclarationEmit2(target=es2015).js
+  s_b96252ac4a3d5a::t_29cfdcb7b80479 1-13
+tsc/testdata/baselines/reference/compiler/typeAliasDeclarationEmit2(target=es2015).symbols
+  s_b96252ac4a3d5a::t_245cd25bc9a82d 1-9
+tsc/testdata/baselines/reference/compiler/typeAliasDeclarationEmit2(target=es2015).types
+  s_b96252ac4a3d5a::t_58f595b1c06521 1-7
+tsc/testdata/baselines/reference/compiler/typeParameterCompatibilityAccrossDeclarations.errors.txt
+  s_b96252ac4a3d5a::t_2a83ce1ee3488d 1-36
+tsc/testdata/baselines/reference/compiler/typeParameterCompatibilityAccrossDeclarations.js
+  s_b96252ac4a3d5a::t_41323192c58f14 1-40
+tsc/testdata/baselines/reference/compiler/typeParameterCompatibilityAccrossDeclarations.symbols
+  s_b96252ac4a3d5a::t_77125981dd1b92 1-62
+tsc/testdata/baselines/reference/compiler/typeParameterCompatibilityAccrossDeclarations.types
+  s_b96252ac4a3d5a::t_5e6255dc6e15fb 1-58
+tsc/testdata/baselines/reference/compiler/typeResolution.js
+  s_b96252ac4a3d5a::t_ea1fd757fc31f4 1-251
+tsc/testdata/baselines/reference/compiler/typeResolution.js.map
+  s_b96252ac4a3d5a::t_cc7a3e05aba45d 1-3
+tsc/testdata/baselines/reference/compiler/typeResolution.sourcemap.txt
+  s_b96252ac4a3d5a::t_01132c6b62231a 1-2661
+tsc/testdata/baselines/reference/compiler/typeResolution.symbols
+  s_b96252ac4a3d5a::t_a716595e9dbac5 1-367
+tsc/testdata/baselines/reference/compiler/typeResolution.types
+  s_b96252ac4a3d5a::t_77c361b093a3f4 1-361
+tsc/testdata/baselines/reference/compiler/varArgsOnConstructorTypes.js
+  s_b96252ac4a3d5a::t_7decb3cb4c0ed0 1-41
+tsc/testdata/baselines/reference/compiler/varArgsOnConstructorTypes.symbols
+  s_b96252ac4a3d5a::t_f8e1c39e2d4420 1-69
+tsc/testdata/baselines/reference/compiler/varArgsOnConstructorTypes.types
+  s_b96252ac4a3d5a::t_2be6828711c46b 1-68
+tsc/testdata/baselines/reference/compiler/withExportDecl.js
+  s_b96252ac4a3d5a::t_34df438431585e 1-130
+tsc/testdata/baselines/reference/compiler/withExportDecl.symbols
+  s_b96252ac4a3d5a::t_138d72a32bf0a3 1-131
+tsc/testdata/baselines/reference/compiler/withExportDecl.types
+  s_b96252ac4a3d5a::t_14fa72a2272ded 1-158
+tsc/testdata/baselines/reference/compiler/withImportDecl.errors.txt
+  s_b96252ac4a3d5a::t_ed77487c8dc107 1-50
+tsc/testdata/baselines/reference/compiler/withImportDecl.js
+  s_b96252ac4a3d5a::t_00d7ec6b55fafc 1-82
+tsc/testdata/baselines/reference/compiler/withImportDecl.symbols
+  s_b96252ac4a3d5a::t_0a741a8d616ce0 1-82
+tsc/testdata/baselines/reference/compiler/withImportDecl.types
+  s_b96252ac4a3d5a::t_474c7e26505f28 1-101
+tsc/testdata/baselines/reference/conformance/ambientExternalModuleMerging.errors.txt
+  s_b96252ac4a3d5a::t_5b3ea588989414 1-20
+tsc/testdata/baselines/reference/conformance/ambientExternalModuleMerging.js
+  s_b96252ac4a3d5a::t_87bd53170229f6 1-25
+tsc/testdata/baselines/reference/conformance/ambientExternalModuleMerging.symbols
+  s_b96252ac4a3d5a::t_440550dd2cbae3 1-34
+tsc/testdata/baselines/reference/conformance/ambientExternalModuleMerging.types
+  s_b96252ac4a3d5a::t_d18529abff2189 1-34
+tsc/testdata/baselines/reference/conformance/ambientInsideNonAmbientExternalModule.js
+  s_b96252ac4a3d5a::t_fda28839d86a46 1-11
+tsc/testdata/baselines/reference/conformance/ambientInsideNonAmbientExternalModule.symbols
+  s_b96252ac4a3d5a::t_9ec7695a477ad2 1-18
+tsc/testdata/baselines/reference/conformance/ambientInsideNonAmbientExternalModule.types
+  s_b96252ac4a3d5a::t_9d872f5c6d03b5 1-16
+tsc/testdata/baselines/reference/conformance/exportAssignmentCircularModules.errors.txt
+  s_b96252ac4a3d5a::t_16d2cac70a3796 1-41
+tsc/testdata/baselines/reference/conformance/exportAssignmentCircularModules.js
+  s_b96252ac4a3d5a::t_ada4dfb4a9b27c 1-42
+tsc/testdata/baselines/reference/conformance/exportAssignmentCircularModules.symbols
+  s_b96252ac4a3d5a::t_e1f5033acb9e18 1-50
+tsc/testdata/baselines/reference/conformance/exportAssignmentCircularModules.types
+  s_b96252ac4a3d5a::t_0b633d7c45b8fb 1-50
+tsc/testdata/baselines/reference/conformance/exportAssignmentMergedInterface.errors.txt
+  s_b96252ac4a3d5a::t_119d766b2fab03 1-44
+tsc/testdata/baselines/reference/conformance/exportAssignmentMergedInterface.js
+  s_b96252ac4a3d5a::t_5ed08f0fa36d75 1-35
+tsc/testdata/baselines/reference/conformance/exportAssignmentMergedInterface.symbols
+  s_b96252ac4a3d5a::t_360a072bcd7dd0 1-65
+tsc/testdata/baselines/reference/conformance/exportAssignmentMergedInterface.types
+  s_b96252ac4a3d5a::t_55788f6d322e63 1-70
+tsc/testdata/baselines/reference/conformance/exportAssignmentTopLevelClodule.errors.txt
+  s_b96252ac4a3d5a::t_fa99bf22b81558 1-23
+tsc/testdata/baselines/reference/conformance/exportAssignmentTopLevelClodule.js
+  s_b96252ac4a3d5a::t_d96fc26d816e0a 1-33
+tsc/testdata/baselines/reference/conformance/exportAssignmentTopLevelClodule.symbols
+  s_b96252ac4a3d5a::t_f67c3a52ef1288 1-32
+tsc/testdata/baselines/reference/conformance/exportAssignmentTopLevelClodule.types
+  s_b96252ac4a3d5a::t_dff2a72b56cb0b 1-37
+tsc/testdata/baselines/reference/conformance/exportAssignmentTopLevelEnumdule.errors.txt
+  s_b96252ac4a3d5a::t_c1e75de56becfd 1-27
+tsc/testdata/baselines/reference/conformance/exportAssignmentTopLevelEnumdule.js
+  s_b96252ac4a3d5a::t_2a8d5467e42ce1 1-36
+tsc/testdata/baselines/reference/conformance/exportAssignmentTopLevelEnumdule.symbols
+  s_b96252ac4a3d5a::t_66c5de73afa32b 1-41
+tsc/testdata/baselines/reference/conformance/exportAssignmentTopLevelEnumdule.types
+  s_b96252ac4a3d5a::t_567e154b8abe8e 1-43
+tsc/testdata/baselines/reference/conformance/exportAssignmentTopLevelFundule.errors.txt
+  s_b96252ac4a3d5a::t_b10c936ef39ba3 1-23
+tsc/testdata/baselines/reference/conformance/exportAssignmentTopLevelFundule.js
+  s_b96252ac4a3d5a::t_2f718d5f50e185 1-31
+tsc/testdata/baselines/reference/conformance/exportAssignmentTopLevelFundule.symbols
+  s_b96252ac4a3d5a::t_3201a86c9acc84 1-31
+tsc/testdata/baselines/reference/conformance/exportAssignmentTopLevelFundule.types
+  s_b96252ac4a3d5a::t_381499ae1c757d 1-36
+tsc/testdata/baselines/reference/conformance/exportAssignmentTopLevelIdentifier.errors.txt
+  s_b96252ac4a3d5a::t_e35d70a43f8898 1-20
+tsc/testdata/baselines/reference/conformance/exportAssignmentTopLevelIdentifier.js
+  s_b96252ac4a3d5a::t_d206c782258a3a 1-25
+tsc/testdata/baselines/reference/conformance/exportAssignmentTopLevelIdentifier.symbols
+  s_b96252ac4a3d5a::t_1068f282921235 1-23
+tsc/testdata/baselines/reference/conformance/exportAssignmentTopLevelIdentifier.types
+  s_b96252ac4a3d5a::t_0118c05a88122e 1-26
+tsc/testdata/baselines/reference/conformance/importImportOnlyModule.errors.txt
+  s_b96252ac4a3d5a::t_9daedf5e24df91 1-22
+tsc/testdata/baselines/reference/conformance/importImportOnlyModule.js
+  s_b96252ac4a3d5a::t_9bbf6ae4a84031 1-30
+tsc/testdata/baselines/reference/conformance/importImportOnlyModule.symbols
+  s_b96252ac4a3d5a::t_0d5578333e7a52 1-28
+tsc/testdata/baselines/reference/conformance/importImportOnlyModule.types
+  s_b96252ac4a3d5a::t_f4c8ba3620a68b 1-31
+tsc/testdata/baselines/reference/conformance/tsxElementResolution17.errors.txt
+  s_b96252ac4a3d5a::t_139d56b714b149 1-33
+tsc/testdata/baselines/reference/conformance/tsxElementResolution17.js
+  s_b96252ac4a3d5a::t_6e3d7a4bf99b78 1-33
+tsc/testdata/baselines/reference/conformance/tsxElementResolution17.symbols
+  s_b96252ac4a3d5a::t_7dee333488ab15 1-45
+tsc/testdata/baselines/reference/conformance/tsxElementResolution17.types
+  s_b96252ac4a3d5a::t_41e2339d5b53f1 1-41
+tsc/testdata/baselines/reference/conformance/tsxPreserveEmit1(target=es2015).errors.txt
+  s_b96252ac4a3d5a::t_e11512a423d2d3 1-45
+tsc/testdata/baselines/reference/conformance/tsxPreserveEmit1(target=es2015).js
+  s_b96252ac4a3d5a::t_4dbf8a0703ef34 1-45
+tsc/testdata/baselines/reference/conformance/tsxPreserveEmit1(target=es2015).symbols
+  s_b96252ac4a3d5a::t_0ec4f303d47f53 1-35
+tsc/testdata/baselines/reference/conformance/tsxPreserveEmit1(target=es2015).types
+  s_b96252ac4a3d5a::t_f7611f52b2a646 1-37
+tsc/testdata/baselines/reference/conformance/tsxPreserveEmit2(target=es2015).js
+  s_b96252ac4a3d5a::t_2ecefca3390fee 1-11
+tsc/testdata/baselines/reference/conformance/tsxPreserveEmit2(target=es2015).symbols
+  s_b96252ac4a3d5a::t_d089bce2e496ad 1-10
+tsc/testdata/baselines/reference/conformance/tsxPreserveEmit2(target=es2015).types
+  s_b96252ac4a3d5a::t_16d46693bc4edf 1-11
+tsc/testdata/baselines/reference/conformance/tsxPreserveEmit3.errors.txt
+  s_b96252ac4a3d5a::t_ae25c10e917003 1-20
+tsc/testdata/baselines/reference/conformance/tsxPreserveEmit3.js
+  s_b96252ac4a3d5a::t_3d2997c50e9293 1-22
+tsc/testdata/baselines/reference/conformance/tsxPreserveEmit3.symbols
+  s_b96252ac4a3d5a::t_bb9203eb715d74 1-26
+tsc/testdata/baselines/reference/conformance/tsxPreserveEmit3.types
+  s_b96252ac4a3d5a::t_458b3c7d0bb297 1-20
+tsc/testdata/baselines/reference/conformance/tsxSfcReturnNull.errors.txt
+  s_b96252ac4a3d5a::t_2cea2f974ba84d 1-18
+tsc/testdata/baselines/reference/conformance/tsxSfcReturnNull.js
+  s_b96252ac4a3d5a::t_78a58c4aeb8e4b 1-25
+tsc/testdata/baselines/reference/conformance/tsxSfcReturnNull.symbols
+  s_b96252ac4a3d5a::t_5784cdfa6b206d 1-28
+tsc/testdata/baselines/reference/conformance/tsxSfcReturnNull.types
+  s_b96252ac4a3d5a::t_58116da76ce1fa 1-31
+tsc/testdata/baselines/reference/conformance/tsxSfcReturnNullStrictNullChecks.errors.txt
+  s_b96252ac4a3d5a::t_dda6b03698cd61 1-18
+tsc/testdata/baselines/reference/conformance/tsxSfcReturnNullStrictNullChecks.js
+  s_b96252ac4a3d5a::t_36579a8587dbc7 1-25
+tsc/testdata/baselines/reference/conformance/tsxSfcReturnNullStrictNullChecks.symbols
+  s_b96252ac4a3d5a::t_835cdf31588faf 1-28
+tsc/testdata/baselines/reference/conformance/tsxSfcReturnNullStrictNullChecks.types
+  s_b96252ac4a3d5a::t_59a5be6981f00f 1-31
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentOverload1.errors.txt
+  s_b96252ac4a3d5a::t_7296ff934a279a 1-57
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentOverload1.js
+  s_b96252ac4a3d5a::t_c7612b9cb07109 1-70
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentOverload1.symbols
+  s_b96252ac4a3d5a::t_5a881b468e5378 1-198
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentOverload1.types
+  s_b96252ac4a3d5a::t_d0e37ebd00f2b8 1-208
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentOverload2.errors.txt
+  s_b96252ac4a3d5a::t_fee9a5a4535c87 1-44
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentOverload2.js
+  s_b96252ac4a3d5a::t_a85523a16a0f49 1-64
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentOverload2.symbols
+  s_b96252ac4a3d5a::t_d7329328589efe 1-108
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentOverload2.types
+  s_b96252ac4a3d5a::t_caa60b3932576a 1-134
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentOverload3.js
+  s_b96252ac4a3d5a::t_7a22487951a281 1-43
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentOverload3.symbols
+  s_b96252ac4a3d5a::t_e9065d2ca51986 1-100
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentOverload3.types
+  s_b96252ac4a3d5a::t_00852dc3f3dcd1 1-104
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentWithDefaultTypeParameter1.errors.txt
+  s_b96252ac4a3d5a::t_07bf47b8a675a8 1-21
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentWithDefaultTypeParameter1.js
+  s_b96252ac4a3d5a::t_a5a3595f747409 1-28
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentWithDefaultTypeParameter1.symbols
+  s_b96252ac4a3d5a::t_3a94b3ee6ec494 1-38
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentWithDefaultTypeParameter1.types
+  s_b96252ac4a3d5a::t_9bf05d3dd160e8 1-36
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentWithDefaultTypeParameter2.errors.txt
+  s_b96252ac4a3d5a::t_9c4920ae536a23 1-25
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentWithDefaultTypeParameter2.js
+  s_b96252ac4a3d5a::t_661a97c8e792c9 1-27
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentWithDefaultTypeParameter2.symbols
+  s_b96252ac4a3d5a::t_eda3b0fecca997 1-34
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentWithDefaultTypeParameter2.types
+  s_b96252ac4a3d5a::t_144c9ce111f843 1-32
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponents3.errors.txt
+  s_b96252ac4a3d5a::t_a66999ae599404 1-28
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponents3.js
+  s_b96252ac4a3d5a::t_28771c9f5594fb 1-36
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponents3.symbols
+  s_b96252ac4a3d5a::t_6d304756668d3d 1-51
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponents3.types
+  s_b96252ac4a3d5a::t_aaed033d238b18 1-60
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentsWithTypeArguments1.errors.txt
+  s_b96252ac4a3d5a::t_32ccda4279f6fe 1-38
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentsWithTypeArguments1.js
+  s_b96252ac4a3d5a::t_5038b1f4be38d9 1-53
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentsWithTypeArguments1.symbols
+  s_b96252ac4a3d5a::t_a482db44810707 1-114
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentsWithTypeArguments1.types
+  s_b96252ac4a3d5a::t_a9ec37514883a5 1-104
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentsWithTypeArguments2.errors.txt
+  s_b96252ac4a3d5a::t_54c6bf8b0d6566 1-74
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentsWithTypeArguments2.js
+  s_b96252ac4a3d5a::t_476b4569410dc0 1-55
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentsWithTypeArguments2.symbols
+  s_b96252ac4a3d5a::t_acbee667d9195d 1-111
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentsWithTypeArguments2.types
+  s_b96252ac4a3d5a::t_2ccd7a95cf8374 1-99
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentsWithTypeArguments3.errors.txt
+  s_b96252ac4a3d5a::t_31c56c044c66c0 1-31
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentsWithTypeArguments3.js
+  s_b96252ac4a3d5a::t_361c0c273f68e2 1-46
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentsWithTypeArguments3.symbols
+  s_b96252ac4a3d5a::t_a715334854d40a 1-132
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentsWithTypeArguments3.types
+  s_b96252ac4a3d5a::t_4cebde02f3ba62 1-122
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentsWithTypeArguments5.errors.txt
+  s_b96252ac4a3d5a::t_3d361fa2892aa6 1-26
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentsWithTypeArguments5.js
+  s_b96252ac4a3d5a::t_d98fe22689f13b 1-37
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentsWithTypeArguments5.symbols
+  s_b96252ac4a3d5a::t_f7263c87ddc023 1-86
+tsc/testdata/baselines/reference/conformance/tsxStatelessFunctionComponentsWithTypeArguments5.types
+  s_b96252ac4a3d5a::t_3aade2eae1bdda 1-80
+tsc/testdata/baselines/reference/conformance/usingDeclarationsTopLevelOfModule.2.js
+  s_b96252ac4a3d5a::t_9f2d00f226c982 1-29
+tsc/testdata/tests/cases/compiler/exportEmptyArrayBindingPattern.ts
+  s_b96252ac4a3d5a::t_d02877455662e8 1
+tsc/testdata/tests/cases/compiler/exportEmptyObjectBindingPattern.ts
+  s_b96252ac4a3d5a::t_9a52f4e01071d3 1
+tsc/testdata/tests/cases/compiler/exportObjectRest.ts
+  s_b96252ac4a3d5a::t_e06df77531ca86 1
+tsc/testdata/tests/cases/compiler/impliedNodeFormatEmit1.ts
+  s_b96252ac4a3d5a::t_190f455569b721 5
+tsc/testdata/tests/cases/compiler/importHelpersWithExportStarAs.ts
+  s_b96252ac4a3d5a::t_232c4020b7d032 3
+tsc/testdata/tests/cases/compiler/importHelpersWithImportOrExportDefault.ts
+  s_b96252ac4a3d5a::t_1d91b7be0450f2 3
+tsc/testdata/tests/cases/compiler/importHelpersWithImportOrExportDefaultNoTslib.1.ts
+  s_b96252ac4a3d5a::t_bbbf39a876dccd 3
+tsc/testdata/tests/cases/compiler/importHelpersWithImportOrExportDefaultNoTslib.2.ts
+  s_b96252ac4a3d5a::t_cc88ca56a7f4ac 3
+tsc/testdata/tests/cases/compiler/importHelpersWithImportOrExportDefaultNoTslib.3.ts
+  s_b96252ac4a3d5a::t_67519ea34a370d 3
+tsc/testdata/tests/cases/compiler/importHelpersWithImportStarAs.ts
+  s_b96252ac4a3d5a::t_32ab8e1f10c68a 3
+tsc/testdata/tests/cases/compiler/importHelpersWithLocalCollisions.ts
+  s_b96252ac4a3d5a::t_591e4489fb1401 3
+tsc/testdata/tests/cases/conformance/classes/classStaticBlock/classStaticBlock24.ts
+  s_b96252ac4a3d5a::t_82fa181ca1de06 2
+tsc/testdata/tests/cases/conformance/es2020/modules/exportAsNamespace1.ts
+  s_b96252ac4a3d5a::t_18d51a875aefa3 2
+tsc/testdata/tests/cases/conformance/es2020/modules/exportAsNamespace2.ts
+  s_b96252ac4a3d5a::t_62faa9229510e8 2
+tsc/testdata/tests/cases/conformance/es2020/modules/exportAsNamespace3.ts
+  s_b96252ac4a3d5a::t_7ebae239168f28 2
+tsc/testdata/tests/cases/conformance/es2020/modules/exportAsNamespace4.ts
+  s_b96252ac4a3d5a::t_cfea946c33f945 2
+tsc/testdata/tests/cases/conformance/externalModules/typeOnly/preserveValueImports_module.ts
+  s_b96252ac4a3d5a::t_989cae3ae82521 3
+tsc/testdata/tests/cases/conformance/statements/VariableStatements/usingDeclarations/usingDeclarationsTopLevelOfModule.1.ts
+  s_b96252ac4a3d5a::t_cf98a0a5d23f38 3
+tsc/testdata/tests/cases/conformance/statements/VariableStatements/usingDeclarations/usingDeclarationsTopLevelOfModule.2.ts
+  s_b96252ac4a3d5a::t_300d9af581f30d 3
+tsc/testdata/tests/cases/conformance/statements/VariableStatements/usingDeclarations/usingDeclarationsTopLevelOfModule.3.ts
+  s_b96252ac4a3d5a::t_a934c55f7e208d 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ec02195faa1f889f07523c81a8982415d1391dd8",
+  "prompts": {},
+  "sessions": {
+    "s_b96252ac4a3d5a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a05dc2-f54f-7d91-b2a4-46d351a49ff4",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Cameron <cclark@cloudflare.com>"
+    }
+  }
+}
