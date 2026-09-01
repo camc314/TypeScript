@@ -1,0 +1,45 @@
+tsc/testdata/baselines/reference/compiler/deprecatedCompilerOptions2.errors.txt
+  s_b96252ac4a3d5a::t_c90b4464941d49 1-44
+tsc/testdata/baselines/reference/compiler/deprecatedCompilerOptions2.js
+  s_b96252ac4a3d5a::t_3b302acbce6cd2 1-9
+tsc/testdata/baselines/reference/compiler/deprecatedCompilerOptions2.symbols
+  s_b96252ac4a3d5a::t_4fd52db27ff994 1-6
+tsc/testdata/baselines/reference/compiler/deprecatedCompilerOptions2.types
+  s_b96252ac4a3d5a::t_34ac0da3fc0ddf 1-7
+tsc/testdata/baselines/reference/compiler/deprecatedCompilerOptions6.errors.txt
+  s_b96252ac4a3d5a::t_193c8437146b24 1-44
+tsc/testdata/baselines/reference/compiler/deprecatedCompilerOptions6.js
+  s_b96252ac4a3d5a::t_64004b91830de3 1-9
+tsc/testdata/baselines/reference/compiler/deprecatedCompilerOptions6.symbols
+  s_b96252ac4a3d5a::t_a951f918fd7fbc 1-6
+tsc/testdata/baselines/reference/compiler/deprecatedCompilerOptions6.types
+  s_b96252ac4a3d5a::t_7f74b44d96c271 1-7
+tsc/testdata/baselines/reference/compiler/tsconfigMapOptionsAreCaseInsensitive.js
+  s_b96252ac4a3d5a::t_56c76a774dcff0 1-27
+tsc/testdata/baselines/reference/compiler/tsconfigMapOptionsAreCaseInsensitive.symbols
+  s_b96252ac4a3d5a::t_41920b7f87b833 1-20
+tsc/testdata/baselines/reference/compiler/tsconfigMapOptionsAreCaseInsensitive.types
+  s_b96252ac4a3d5a::t_4ea1edc9a18c9d 1-22
+tsc/testdata/tests/cases/compiler/emitHelpersWithLocalCollisions.ts
+  s_b96252ac4a3d5a::t_6dfbad8f53c45d 2
+tsc/testdata/tests/cases/compiler/tsconfigMapOptionsAreCaseInsensitive.ts
+  s_b96252ac4a3d5a::t_8cb39f5210e006 5,17
+tsc/testdata/tests/cases/conformance/es2022/arbitraryModuleNamespaceIdentifiers/arbitraryModuleNamespaceIdentifiers_module.ts
+  s_b96252ac4a3d5a::t_584c3472fc5b31 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d614057ed12c455dcc78b546030b8a3e739b0906",
+  "prompts": {},
+  "sessions": {
+    "s_b96252ac4a3d5a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a05dc2-f54f-7d91-b2a4-46d351a49ff4",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Cameron <cclark@cloudflare.com>"
+    }
+  }
+}
