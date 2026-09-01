@@ -1,0 +1,101 @@
+tsc/testdata/tests/cases/compiler/blockScopedClassDeclarationAcrossFiles.ts
+  s_b96252ac4a3d5a::t_43c870c418df55 2
+tsc/testdata/tests/cases/compiler/checkIndexConstraintOfJavascriptClassExpression.ts
+  s_b96252ac4a3d5a::t_a957ae17505596 7
+tsc/testdata/tests/cases/compiler/constDeclarations-useBeforeDefinition2.ts
+  s_b96252ac4a3d5a::t_75f2caa6ef624c 3
+tsc/testdata/tests/cases/compiler/controlFlowJavascript.ts
+  s_b96252ac4a3d5a::t_38c669c0c29b79 4
+tsc/testdata/tests/cases/compiler/inlineSourceMap2.ts
+  s_b96252ac4a3d5a::t_5f9d681a9249d6 5
+tsc/testdata/tests/cases/compiler/jsFileCompilationClassMethodContainingArrowFunction.ts
+  s_b96252ac4a3d5a::t_985cf35feefb24 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationDuplicateFunctionImplementation.ts
+  s_b96252ac4a3d5a::t_25557c37b0bbd1 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationDuplicateFunctionImplementationFileOrderReversed.ts
+  s_b96252ac4a3d5a::t_60df26e2d0b378 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationDuplicateVariable.ts
+  s_b96252ac4a3d5a::t_38b843fd7e490d 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationDuplicateVariableErrorReported.ts
+  s_b96252ac4a3d5a::t_cc7a51a51eb229 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationEmitDeclarations.ts
+  s_b96252ac4a3d5a::t_579f150fc97624 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationEmitTrippleSlashReference.ts
+  s_b96252ac4a3d5a::t_d28d5cc3b9a31f 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationLetBeingRenamed.ts
+  s_b96252ac4a3d5a::t_24a3a36d38de03 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationLetDeclarationOrder.ts
+  s_b96252ac4a3d5a::t_c92e204ab41b49 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationLetDeclarationOrder2.ts
+  s_b96252ac4a3d5a::t_6984bdf235ca0e 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationNonNullAssertion.ts
+  s_b96252ac4a3d5a::t_861352e81532a2 4
+tsc/testdata/tests/cases/compiler/jsFileCompilationRestParameter.ts
+  s_b96252ac4a3d5a::t_74ae91eaf188ca 4
+tsc/testdata/tests/cases/compiler/jsFileCompilationShortHandProperty.ts
+  s_b96252ac4a3d5a::t_8adcd0398377f9 3
+tsc/testdata/tests/cases/compiler/jsFileCompilationTypeAssertions.ts
+  s_b96252ac4a3d5a::t_e8a509019fd3d9 4
+tsc/testdata/tests/cases/compiler/jsFileCompilationWithEnabledCompositeOption.ts
+  s_b96252ac4a3d5a::t_dfcd8d2bcc937e 3
+tsc/testdata/tests/cases/compiler/letDeclarations-useBeforeDefinition2.ts
+  s_b96252ac4a3d5a::t_6ed3289868894e 2
+tsc/testdata/tests/cases/compiler/moduleNoneDynamicImport.ts
+  s_b96252ac4a3d5a::t_61afbba2a2a2a4 4
+tsc/testdata/tests/cases/compiler/signaturesUseJSDocForOptionalParameters.ts
+  s_b96252ac4a3d5a::t_5ad3570158e6bf 3
+tsc/testdata/tests/cases/compiler/useBeforeDeclaration.ts
+  s_b96252ac4a3d5a::t_f458104a3a9759 2
+tsc/testdata/tests/cases/conformance/classes/members/classTypes/genericSetterInClassTypeJsDoc.ts
+  s_b96252ac4a3d5a::t_10fb35c86960c5 7
+tsc/testdata/tests/cases/conformance/es6/computedProperties/computedPropertyNames52.ts
+  s_b96252ac4a3d5a::t_62a8a642c29623 2
+tsc/testdata/tests/cases/conformance/expressions/typeSatisfaction/typeSatisfaction_js.ts
+  s_b96252ac4a3d5a::t_d2427259ed4674 4
+tsc/testdata/tests/cases/conformance/jsdoc/checkJsdocOnEndOfFile.ts
+  s_b96252ac4a3d5a::t_66e1d00960d73a 2
+tsc/testdata/tests/cases/conformance/jsdoc/checkJsdocReturnTag1.ts
+  s_b96252ac4a3d5a::t_cf604872e43658 3
+tsc/testdata/tests/cases/conformance/jsdoc/checkJsdocReturnTag2.ts
+  s_b96252ac4a3d5a::t_3f023042d8e46a 3
+tsc/testdata/tests/cases/conformance/jsdoc/jsdocAccessibilityTagsDeclarations.ts
+  s_b96252ac4a3d5a::t_25a242b1550da7 5
+tsc/testdata/tests/cases/conformance/jsdoc/jsdocLiteral.ts
+  s_b96252ac4a3d5a::t_22d25ed34aba5f 4
+tsc/testdata/tests/cases/conformance/jsdoc/jsdocNeverUndefinedNull.ts
+  s_b96252ac4a3d5a::t_3ba7961407bc56 4
+tsc/testdata/tests/cases/conformance/jsdoc/jsdocReadonlyDeclarations.ts
+  s_b96252ac4a3d5a::t_7022bb9bcbf4d0 5
+tsc/testdata/tests/cases/conformance/jsdoc/jsdocReturnTag1.ts
+  s_b96252ac4a3d5a::t_b7a83d0ff9cf76 4
+tsc/testdata/tests/cases/conformance/salsa/inferringClassMembersFromAssignments.ts
+  s_b96252ac4a3d5a::t_20c7d8895ee215 2
+tsc/testdata/tests/cases/conformance/salsa/jsObjectsMarkedAsOpenEnded.ts
+  s_b96252ac4a3d5a::t_9c646ae78922a4 3
+tsc/testdata/tests/cases/conformance/salsa/methodsReturningThis.ts
+  s_b96252ac4a3d5a::t_ce4b23e63e8c6a 3
+tsc/testdata/tests/cases/conformance/salsa/multipleDeclarations.ts
+  s_b96252ac4a3d5a::t_5abeb32b1745af 3
+tsc/testdata/tests/cases/conformance/salsa/topLevelThisAssignment.ts
+  s_b96252ac4a3d5a::t_380c2c9d194c97 3
+tsc/testdata/tests/cases/conformance/types/uniqueSymbol/uniqueSymbolsDeclarationsInJs.ts
+  s_b96252ac4a3d5a::t_c3dbddf8a77607 7
+tsc/testdata/tests/cases/conformance/types/uniqueSymbol/uniqueSymbolsDeclarationsInJsErrors.ts
+  s_b96252ac4a3d5a::t_2030cfea1bda1b 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fdea05a5af28fed50e35a5e3df216a94da5b5e5a",
+  "prompts": {},
+  "sessions": {
+    "s_b96252ac4a3d5a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a05dc2-f54f-7d91-b2a4-46d351a49ff4",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Cameron <cclark@cloudflare.com>"
+    }
+  }
+}
