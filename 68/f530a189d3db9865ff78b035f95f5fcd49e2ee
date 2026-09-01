@@ -1,0 +1,19 @@
+tsc/internal/testutil/harnessutil/harnessutil.go
+  s_b96252ac4a3d5a::t_b2d5d5f5c15570 1241-1242,1257-1259
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "68f530a189d3db9865ff78b035f95f5fcd49e2ee",
+  "prompts": {},
+  "sessions": {
+    "s_b96252ac4a3d5a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a05dc2-f54f-7d91-b2a4-46d351a49ff4",
+        "model": "unknown"
+      },
+      "human_author": "Cameron <cclark@cloudflare.com>"
+    }
+  }
+}
