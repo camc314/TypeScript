@@ -1,0 +1,29 @@
+tsc/testdata/tests/cases/compiler/deprecatedCompilerOptions2.ts
+  s_b96252ac4a3d5a::t_3ac5ec58d24f5a 5-7
+tsc/testdata/tests/cases/compiler/deprecatedCompilerOptions6.ts
+  s_b96252ac4a3d5a::t_d22513db9a051d 4-6
+tsc/testdata/tests/cases/compiler/emitHelpersWithLocalCollisions.ts
+  s_b96252ac4a3d5a::t_2caf74b51ab45d 2
+tsc/testdata/tests/cases/compiler/moduleImportedForTypeArgumentPosition.ts
+  s_b96252ac4a3d5a::t_7564139ca73a04 11
+tsc/testdata/tests/cases/compiler/tsconfigMapOptionsAreCaseInsensitive.ts
+  s_b96252ac4a3d5a::t_f0f9e75e86aa14 5,17
+tsc/testdata/tests/cases/compiler/varArgsOnConstructorTypes.ts
+  s_b96252ac4a3d5a::t_60f23c340993a1 4-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "987c8e548d817424d7db848cff73d2b52b5020b2",
+  "prompts": {},
+  "sessions": {
+    "s_b96252ac4a3d5a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a05dc2-f54f-7d91-b2a4-46d351a49ff4",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Cameron <cclark@cloudflare.com>"
+    }
+  }
+}
